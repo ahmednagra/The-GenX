@@ -1,0 +1,55 @@
+https://www.loom.com/share/ce87c09f45a4475a85af9c91abb3278b?sid=666835aa-a3df-44ca-984f-0375e58038d9
+
+
+Curry’s: Laptops: ALL (currently 418 items)
+Curry’s Tablets: ALL (currently 300 items)
+Curry’s Desktop: ALL (currently 92 items).
+
+Frequency: Daily
+
+
+Search Scraper: Top 50 results (Capped)
+Keywords:
+Laptop
+Windows Laptops
+2 in 1 Laptops
+AI Laptops
+MacBook
+Tablets
+Kids Tablets
+Graphics Tablets
+Laptops for Kids
+Laptops for students
+Laptops Windows
+Laptops HP
+Laptops Dell
+Laptops Lenovo
+Dell
+HP
+Lenovo
+Asus
+Apple
+Intel
+AMD
+Chrome
+Microsoft
+Samsung
+Surface
+Google
+Tablet
+Tablet 12 inch
+Tablet 10 inch
+Android tablets
+iPad
+iPad Air
+iPad Mini
+iPad Pro
+Desktop
+Desktop PC
+Desktop Computer
+
+
+Amazon Requirements:
+Amazon UK
+- test best seller ranking nodes
+- Example URL: https://www.amazon.co.uk/Best-Sellers-Computers-Accessories-Laptops/zgbs/computers/429886031/ref=zg_m_bs_nav_computers_1

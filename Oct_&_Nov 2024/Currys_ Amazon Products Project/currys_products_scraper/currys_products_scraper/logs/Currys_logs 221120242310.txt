@@ -1,0 +1,5 @@
+[INIT] Script started at 22-11-2024 23:10:54
+[START_REQUESTS] Number of search keywords: 37
+Keyword: Laptop Total "417 items" are found
+
+[POST_TO_API] Successfully uploaded data for product ID 10251047. Response: {'message': 'Data successfully stored'}

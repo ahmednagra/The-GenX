@@ -1,0 +1,35 @@
+python-dotenv
+openai
+anthropic
+# langchain
+# langchain-community
+# langchain-openai
+python-dotenv
+asyncio
+pyppeteer
+pandas
+fire
+tqdm
+geonamescache
+unidecode
+# logging
+playwright
+scrapy
+scrapyd
+scrapy-playwright
+scrapy-user-agents
+scrapeops-scrapy-proxy-sdk
+scrapeops-scrapy
+scrapy-proxy-pool
+requests
+markdownify
+beautifulsoup4
+python-slugify
+Unidecode
+google-cloud-firestore
+firebase-admin
+# pprint
+scrapy-splash
+# pinecone-client
+tenacity
+termcolor

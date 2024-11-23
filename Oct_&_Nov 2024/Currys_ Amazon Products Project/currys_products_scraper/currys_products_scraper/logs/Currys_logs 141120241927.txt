@@ -1,0 +1,171 @@
+[INIT] Script started at 14-11-2024 19:27:51
+[START_REQUESTS] Number of search keywords: 37
+Keyword:Laptops for Kids Not Found the search Update Url value, Keyword scraping skipped.
+Keyword:Laptops for students Not Found the search Update Url value, Keyword scraping skipped.
+Keyword: Kids Tablets Total "24 items" are found
+
+Keyword: Laptop Total "441 items" are found
+
+Keyword:Apple Not Found the search Update Url value, Keyword scraping skipped.
+Keyword: Tablets Total "302 items" are found
+
+Keyword: Graphics Tablets Total "28 items" are found
+
+Keyword: Laptops Dell Total "21 items" are found
+
+Keyword: MacBook Total "96 items" are found
+
+Keyword: AI Laptops Total "266 items" are found
+
+Keyword: Windows Laptops Total "309 items" are found
+
+Keyword: 2 in 1 Laptops Total "72 items" are found
+
+Keyword: Laptops HP Total "131 items" are found
+
+Keyword: Dell Total "42 items" are found
+
+Keyword: Laptops Windows Total "1,221 items" are found
+
+Keyword: Laptops Lenovo Total "103 items" are found
+
+Keyword: Lenovo Total "169 items" are found
+
+Keyword: HP Total "488 items" are found
+
+Keyword: Asus Total "311 items" are found
+
+Keyword: Intel Total "684 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-pro-7-14.5-laptop-amd-ryzen-7-1-tb-ssd-tidal-teal-10263562.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-pro-7-14.5-laptop-amd-ryzen-7-1-tb-ssd-tidal-teal-10263562.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/acer-aspire-14-14-laptop-intel-core-5-512-gb-ssd-grey-10264764.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-aio-a5702wva-27-allinone-pc-intel-core-i7-1-tb-ssd-black-10269488.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-pro-7-14.5-laptop-amd-ryzen-7-1-tb-ssd-tidal-teal-10263562.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-zenbook-14-oled-14-laptop-intel-core-ultra-9-1-tb-ssd-blue-10259150.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/hp-envy-x360-14fc0502na-14-2-in-1-laptop-intel-core-ultra-7-1-tb-ssd-silver-10260894.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/hp-envy-x360-15.6-2-in-1-laptop-amd-ryzen-7-512-gb-ssd-black-very-good-condition-10268742.html 
+
+Keyword: Microsoft Total "285 items" are found
+
+Keyword: Samsung Total "876 items" are found
+
+Keyword: AMD Total "236 items" are found
+
+Keyword: Surface Total "309 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/microsoft-14.4-surface-laptop-studio-2-intel-core-i7-512-gb-ssd-platinum-10254572.html 
+
+Keyword:Tablet 12 inch Not Found the search Update Url value, Keyword scraping skipped.
+Keyword: Google Total "682 items" are found
+
+Keyword: Tablet Total "302 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/samsung-galaxy-tab-s6-lite-2024-10.4%E2%80%9D-tablet-64-gb-grey-10262639.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-cx34-14-refurbished-chromebook-plus-intel-core-i3-256-gb-ufs-grey-very-good-condition-10267800.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-macbook-air-13.6-2022-m2-512-gb-ssd-space-grey-10239787.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/microsoft-14.4-surface-laptop-studio-2-intel-core-i7-512-gb-ssd-platinum-10254572.html 
+
+Keyword: Chrome Total "272 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-cx34-14-refurbished-chromebook-plus-intel-core-i3-256-gb-ufs-grey-very-good-condition-10267800.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-vivobook-go-15-e1504fa-15.6-laptop-amd-ryzen-5-512-gb-ssd-silver-10259158.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-pro-7-14.5-laptop-amd-ryzen-7-1-tb-ssd-tidal-teal-10263562.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/microsoft-14.4-surface-laptop-studio-2-intel-core-i7-512-gb-ssd-platinum-10254572.html 
+
+Keyword:Tablet 10 inch Not Found the search Update Url value, Keyword scraping skipped.
+URL already scrapped, Skipped : https://www.currys.co.uk/products/acer-aspire-vero-av1651p-16-refurbished-laptop-intel-core-ultra-7-1-tb-ssd-grey-excellent-condition-10268694.html 
+
+Keyword: iPad Total "171 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-vivobook-go-15-e1504fa-15.6-laptop-amd-ryzen-5-512-gb-ssd-silver-10259158.html 
+
+Keyword: iPad Air Total "64 items" are found
+
+Keyword: iPad Mini Total "32 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-8.3-ipad-mini-2024-512-gb-space-grey-10272800.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/hp-envy-x360-14fc0502na-14-2-in-1-laptop-intel-core-ultra-7-1-tb-ssd-silver-10260894.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-13-ipad-air-2024-512-gb-purple-10261924.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-ideapad-slim-3i-14-refurbished-chromebook-plus-intel-core-i3-256-gb-emmc-grey-excellent-condition-10259551.html 
+
+Keyword: Android tablets Total "111 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/samsung-galaxy-tab-s6-lite-2024-10.4%E2%80%9D-tablet-64-gb-grey-10262639.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-10.9-ipad-2022-64-gb-silver-10242684.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/hp-envy-17da0505sa-17.3-laptop-intel-core-ultra-7-512-gb-ssd-silver-10264297.html 
+
+Keyword: iPad Pro Total "48 items" are found
+
+Keyword: Desktop Total "107 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-aio-7-27-allinone-pc-amd-ryzen-7-1-tb-ssd-grey-10264776.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-cx34-14-refurbished-chromebook-plus-intel-core-i3-256-gb-ufs-grey-very-good-condition-10267800.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/samsung-galaxy-tab-s10-ultra-14.6-tablet-512-gb-platinum-silver-10271283.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/hp-envy-x360-15.6-2-in-1-laptop-amd-ryzen-7-512-gb-ssd-black-very-good-condition-10268742.html 
+
+Keyword: Desktop PC Total "6,034 items" are found
+
+Keyword: Desktop Computer Total "107 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-aio-7-27-allinone-pc-amd-ryzen-7-1-tb-ssd-grey-10264776.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/acer-aspire-vero-av1651p-16-refurbished-laptop-intel-core-ultra-7-1-tb-ssd-grey-excellent-condition-10268694.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/samsung-galaxy-tab-s6-lite-2024-10.4%E2%80%9D-tablet-64-gb-grey-10262639.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-aio-7-27-allinone-pc-amd-ryzen-7-1-tb-ssd-grey-10264776.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/acer-aspire-xc1710-desktop-pc-intel-n100-256-gb-ssd-black-10266540.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-cx34-14-refurbished-chromebook-plus-intel-core-i3-256-gb-ufs-grey-very-good-condition-10267800.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-ideapad-slim-3i-14-refurbished-chromebook-plus-intel-core-i3-256-gb-emmc-grey-excellent-condition-10259551.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/hp-professional-15.6%E2%80%9D-laptop-case-black-10236029.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/dell-mobile-ms3320w-wireless-optical-mouse-black-10261571.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-vivobook-go-15-e1504fa-15.6-laptop-amd-ryzen-5-512-gb-ssd-silver-10259158.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-macbook-air-13.6-2022-m2-512-gb-ssd-space-grey-10239787.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/steelseries-arctis-nova-3-7.1-gaming-headset-black-10242037.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/msi-x670egaming-plus-wifi-am5-motherboard-10262736.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/amd-ryzen-5-5600g-processor-10227696.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/dell-mobile-ms3320w-wireless-optical-mouse-black-10261571.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/xppen-artist-12-2nd-gen-11.9-graphics-tablet-green-10234575.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/samsung-galaxy-tab-s6-lite-2024-10.4%E2%80%9D-tablet-64-gb-grey-10262639.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/hp-professional-15.6%E2%80%9D-laptop-case-black-10236029.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/samsung-galaxy-tab-s9-ultra-smart-book-cover-black-10253035.html 
+
+Total Items Scraped:157
+Total Duplicate Items Found:49

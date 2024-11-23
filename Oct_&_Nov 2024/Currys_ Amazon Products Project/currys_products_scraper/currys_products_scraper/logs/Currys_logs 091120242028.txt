@@ -1,0 +1,13 @@
+[INIT] Script started at 09-11-2024 20:28:32
+Screenshot saved as https___www.currys.co.uk_products_lenovo-legion-5-16-gaming-laptop-intel-core-i9-rtx-4060-1-tb-ssd-10263457.html.jpeg
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys.jpeg
+Error: Timeout while locating the rich media wrapper or 'View Less' button: Message: 
+
+Error: Timeout while locating the rich media wrapper or 'View Less' button: Message: 
+
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_1.jpeg
+Error: An unexpected error occurred in capture_full_rich_content: name 'time' is not defined
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_1.jpeg
+Error: An unexpected error occurred in capture_full_rich_content: name 'time' is not defined
+Error: An unexpected error occurred in capture_full_rich_content: Message: 
+

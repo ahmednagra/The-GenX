@@ -1,0 +1,6 @@
+[INIT] Script started at 21-11-2024 19:53:09
+[INIT] Script started at 21-11-2024 19:53:09
+
+
+ Category:polymer now start scraping
+Category: polymer Found Total Materials : 125743

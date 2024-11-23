@@ -1,0 +1,14 @@
+[INIT] Script started at 05-11-2024 01:30:45
+Section :Old Testament Is called for Category Scraping
+Category: 30 Sections Found
+Successfully wrote to file: output\spokengospel_Exodus 3-4_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 42-45_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 3_text.txt
+Section :New Testament Is called for Category Scraping
+Category: 20 Sections Found
+Successfully wrote to file: output\spokengospel_Matthew 2762-28_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 8-9_text.txt
+Successfully wrote to file: output\spokengospel_Mark 435-613_text.txt
+Total Articles are Scraped: 16
+Script Started at: 05-11-2024 01:30:45
+Script Stopped at: 05-11-2024 01:30:56

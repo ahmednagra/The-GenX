@@ -1,0 +1,460 @@
+[INIT] Script started at 05-11-2024 20:48:37
+Section :Old Testament Is called for Category Scraping
+Category: 30 Sections Found
+Successfully wrote to file: output\spokengospel_Genesis 22-23_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 1-2_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 13-15_text.txt
+Successfully wrote to file: output\spokengospel_Zephaniah 11-23_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 16-17_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 7-8_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 20-21_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 6_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 5_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 22_text.txt
+Successfully wrote to file: output\spokengospel_Zephaniah 39-20_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 9_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 18-19_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 3-4_text.txt
+Successfully wrote to file: output\spokengospel_Zephaniah 24-38_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 23-24_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 1_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 2_text.txt
+Successfully wrote to file: output\spokengospel_Joshua 10-12_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 28_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 8-9_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 39-41_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 42-45_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 46-50_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 1816-19_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 29-31_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 3_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 6-7_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 13-14_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 4-5_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 15-16_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 32-33_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 34-36_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 10-11_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 37-38_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 20-21_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 12_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 24_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 25-27_text.txt
+Successfully wrote to file: output\spokengospel_Genesis 17-1815_text.txt
+Successfully wrote to file: output\spokengospel_Habakkuk 3_text.txt
+Successfully wrote to file: output\spokengospel_Micah 3 - 5_text.txt
+Successfully wrote to file: output\spokengospel_Jonah 4_text.txt
+Successfully wrote to file: output\spokengospel_Jonah 2_text.txt
+Successfully wrote to file: output\spokengospel_Jonah 1_text.txt
+Successfully wrote to file: output\spokengospel_Jonah 3_text.txt
+Successfully wrote to file: output\spokengospel_Habakkuk 1-2_text.txt
+Successfully wrote to file: output\spokengospel_Micah 6 - 7_text.txt
+Successfully wrote to file: output\spokengospel_Micah 1 - 2_text.txt
+Successfully wrote to file: output\spokengospel_Obadiah 1 - 14_text.txt
+Successfully wrote to file: output\spokengospel_Obadiah 15 - 21_text.txt
+Successfully wrote to file: output\spokengospel_Amos 1-2_text.txt
+Successfully wrote to file: output\spokengospel_Amos 7-9_text.txt
+Successfully wrote to file: output\spokengospel_Amos 3-6_text.txt
+Successfully wrote to file: output\spokengospel_Joel 11-217_text.txt
+Successfully wrote to file: output\spokengospel_Joel 218-321_text.txt
+Successfully wrote to file: output\spokengospel_Daniel 2_text.txt
+Successfully wrote to file: output\spokengospel_Hosea 1_text.txt
+Successfully wrote to file: output\spokengospel_Daniel 4_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 8-11_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 6-7_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 1-3_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 47-48_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 4313-4624_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 4-5_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 19_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 17_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 35-36_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 29-32_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 38-39_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 25-28_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 22-23_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 15-16_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 37_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 20-21_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 401-4312_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 12-14_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 34_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 33_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 24_text.txt
+Successfully wrote to file: output\spokengospel_Ezekiel 18_text.txt
+Successfully wrote to file: output\spokengospel_Daniel 5_text.txt
+Successfully wrote to file: output\spokengospel_Daniel 8-12_text.txt
+Successfully wrote to file: output\spokengospel_Daniel 1_text.txt
+Successfully wrote to file: output\spokengospel_Daniel 7_text.txt
+Successfully wrote to file: output\spokengospel_Daniel 3_text.txt
+Successfully wrote to file: output\spokengospel_Daniel 6_text.txt
+Successfully wrote to file: output\spokengospel_Hosea 4-5_text.txt
+Successfully wrote to file: output\spokengospel_Hosea 8-10_text.txt
+Successfully wrote to file: output\spokengospel_Hosea 11-14_text.txt
+Successfully wrote to file: output\spokengospel_Hosea 2-3_text.txt
+Successfully wrote to file: output\spokengospel_Hosea 6-7_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 1_text.txt
+Successfully wrote to file: output\spokengospel_Lamentations 1-2_text.txt
+Successfully wrote to file: output\spokengospel_Song of Songs 52-63_text.txt
+Successfully wrote to file: output\spokengospel_Song of Songs 3-51_text.txt
+Successfully wrote to file: output\spokengospel_Song of Songs 11-6_text.txt
+Successfully wrote to file: output\spokengospel_Song of Song 711-814_text.txt
+Successfully wrote to file: output\spokengospel_Song of Songs 17-217_text.txt
+Successfully wrote to file: output\spokengospel_Song of Songs 64-710_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 29_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 20_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 36_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 45-49_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 40-44_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 26-28_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 50-52_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 71-1022_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 1719-1915_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 21-44_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 11-12_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 45-630_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 37-39_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 161-1718_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 32-33_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 211-238_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 34-35_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 14-15_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 239-40_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 13_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 24-25_text.txt
+Successfully wrote to file: output\spokengospel_Lamentations 3_text.txt
+Successfully wrote to file: output\spokengospel_Jeremiah 30-31_text.txt
+Successfully wrote to file: output\spokengospel_Lamentations 4-5_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 13-16_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 9-10_text.txt
+Successfully wrote to file: output\spokengospel_Esther 8-10_text.txt
+Successfully wrote to file: output\spokengospel_Esther 219-417_text.txt
+Successfully wrote to file: output\spokengospel_Esther 5-7_text.txt
+Successfully wrote to file: output\spokengospel_Esther 11-218_text.txt
+Successfully wrote to file: output\spokengospel_Job 1-2_text.txt
+Successfully wrote to file: output\spokengospel_Job 42_text.txt
+Successfully wrote to file: output\spokengospel_Job 3-6_text.txt
+Successfully wrote to file: output\spokengospel_Job 10-14_text.txt
+Successfully wrote to file: output\spokengospel_Job 18-21_text.txt
+Successfully wrote to file: output\spokengospel_Job 28_text.txt
+Successfully wrote to file: output\spokengospel_Job 32-37_text.txt
+Successfully wrote to file: output\spokengospel_Job 7-9_text.txt
+Successfully wrote to file: output\spokengospel_Job 29-31_text.txt
+Successfully wrote to file: output\spokengospel_Job 38-4014_text.txt
+Successfully wrote to file: output\spokengospel_Job 4015-41_text.txt
+Successfully wrote to file: output\spokengospel_Job 22-27_text.txt
+Successfully wrote to file: output\spokengospel_Job 15-17_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 23-25_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 18-427_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 26-29_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 30_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 11-7_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 21_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 1_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 10-12_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 20-22_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 31_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 41_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 23_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 33_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 38_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 40_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 30_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 39_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 24_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 26_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 37_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 34_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 28_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 22_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 35_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 36_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 25_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 32_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 27_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 29_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 31_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 11_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 17-19_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 8_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 16_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 3_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 17_text.txt
+Successfully wrote to file: output\spokengospel_Proverbs 5-9_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 6_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 15_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 5_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 7_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 19_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 2_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 14_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 12_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 18_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 4_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 13_text.txt
+Successfully wrote to file: output\spokengospel_Psalm 20_text.txt
+Successfully wrote to file: output\spokengospel_Ecclesiastes 1_text.txt
+Successfully wrote to file: output\spokengospel_Ecclesiastes 12_text.txt
+Successfully wrote to file: output\spokengospel_Ecclesiastes 610-1110_text.txt
+Successfully wrote to file: output\spokengospel_Ecclesiastes 316-611_text.txt
+Successfully wrote to file: output\spokengospel_Ecclesiastes 2-315_text.txt
+Successfully wrote to file: output\spokengospel_Ezra 2-3_text.txt
+Successfully wrote to file: output\spokengospel_Nehemiah 8-10_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 21-22_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 5_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 15-16_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 24-25_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 21-23_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 18-20_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 14-17_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 1_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 17-19_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 4_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 11-13_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 3_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 3-5_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 87-1035_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 2_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 9-10_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 1-2_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 12-14_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 11_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 6-8_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 624-86_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 61-23_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 20_text.txt
+Successfully wrote to file: output\spokengospel_Nehemiah 11-13_text.txt
+Successfully wrote to file: output\spokengospel_Ezra 4-6_text.txt
+Successfully wrote to file: output\spokengospel_Ezra 1_text.txt
+Successfully wrote to file: output\spokengospel_Nehemiah 29-423_text.txt
+Successfully wrote to file: output\spokengospel_Nehemiah 5-7_text.txt
+Successfully wrote to file: output\spokengospel_Ezra 7-10_text.txt
+Successfully wrote to file: output\spokengospel_Nehemiah 11-28_text.txt
+Successfully wrote to file: output\spokengospel_2 Samuel 10-12_text.txt
+Successfully wrote to file: output\spokengospel_1 Samuel 18-20_text.txt
+Successfully wrote to file: output\spokengospel_Judges 17-18_text.txt
+Successfully wrote to file: output\spokengospel_Judges 1-36_text.txt
+Successfully wrote to file: output\spokengospel_Judges 9_text.txt
+Successfully wrote to file: output\spokengospel_Judges 19-21_text.txt
+Successfully wrote to file: output\spokengospel_Judges 37-5_text.txt
+Successfully wrote to file: output\spokengospel_Judges 10-12_text.txt
+Successfully wrote to file: output\spokengospel_Judges 6-8_text.txt
+Successfully wrote to file: output\spokengospel_Judges 13-16_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 1-3_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 1618-18_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 31-34_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 29-30_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 4-5_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 23-25_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 6-8_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 15-1617_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 21-22_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 9-11_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 19-20_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 12-13_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 26-28_text.txt
+Successfully wrote to file: output\spokengospel_1 Samuel 24-26_text.txt
+Successfully wrote to file: output\spokengospel_Deuteronomy 14_text.txt
+Successfully wrote to file: output\spokengospel_1 Samuel 16-17_text.txt
+Successfully wrote to file: output\spokengospel_2 Samuel 5-6_text.txt
+Successfully wrote to file: output\spokengospel_1 Samuel 13-15_text.txt
+Successfully wrote to file: output\spokengospel_2 Samuel 15-20_text.txt
+Successfully wrote to file: output\spokengospel_1 Samuel 5-7_text.txt
+Successfully wrote to file: output\spokengospel_1 Samuel 212-4_text.txt
+Successfully wrote to file: output\spokengospel_2 Samuel 21-24_text.txt
+Successfully wrote to file: output\spokengospel_2 Samuel 13-14_text.txt
+Successfully wrote to file: output\spokengospel_1 Samuel 21-23_text.txt
+Successfully wrote to file: output\spokengospel_2 Samuel 7-9_text.txt
+Successfully wrote to file: output\spokengospel_2 Samuel 28-412_text.txt
+Successfully wrote to file: output\spokengospel_1 Samuel 1-211_text.txt
+Successfully wrote to file: output\spokengospel_2 Samuel 1-27_text.txt
+Successfully wrote to file: output\spokengospel_1 Samuel 27-31_text.txt
+Successfully wrote to file: output\spokengospel_1 Samuel 8-12_text.txt
+Successfully wrote to file: output\spokengospel_Ruth 3_text.txt
+Successfully wrote to file: output\spokengospel_Ruth 2_text.txt
+Successfully wrote to file: output\spokengospel_Ruth 4_text.txt
+Successfully wrote to file: output\spokengospel_Ruth 1_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 7-8_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 11-146_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 16_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 25-27_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 19-20_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 35-40_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 30-31_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 3-4_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 7-10_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 32-34_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 16-18_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 25-27_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 8-10_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 5-6_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 21-24_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 1-2_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 14-15_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 11-13_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 25_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 26-27_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 68-7_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 23-24_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 1-3_text.txt
+Successfully wrote to file: output\spokengospel_Exodus 28-29_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 21-22_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 4-513_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 11_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 17-18_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 12-15_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 19-20_text.txt
+Successfully wrote to file: output\spokengospel_Leviticus 514-67_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 91-1010_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 15-16_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 20-21_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 28-30_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 5-6_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 1011-12_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 33-34_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 31-32_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 147-2_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 22-24_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 17-19_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 13-14_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 35-36_text.txt
+Successfully wrote to file: output\spokengospel_Numbers 3-4_text.txt
+Section :New Testament Is called for Category Scraping
+Category: 20 Sections Found
+Successfully wrote to file: output\spokengospel_Jude_text.txt
+Successfully wrote to file: output\spokengospel_Galatians 1-2_text.txt
+Successfully wrote to file: output\spokengospel_1 John 228-324_text.txt
+Successfully wrote to file: output\spokengospel_1 John 47-55_text.txt
+Successfully wrote to file: output\spokengospel_1 John 56-21_text.txt
+Successfully wrote to file: output\spokengospel_1 John 11-4_text.txt
+Successfully wrote to file: output\spokengospel_2 John_text.txt
+Successfully wrote to file: output\spokengospel_1 John 218-27; 41-11_text.txt
+Successfully wrote to file: output\spokengospel_1 John 212-17_text.txt
+Successfully wrote to file: output\spokengospel_1 John 15-211_text.txt
+Successfully wrote to file: output\spokengospel_3 John_text.txt
+Successfully wrote to file: output\spokengospel_Galatians 3_text.txt
+Successfully wrote to file: output\spokengospel_Galatians 5-6_text.txt
+Successfully wrote to file: output\spokengospel_Galatians 4_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 18_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 24-25_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 2762-28_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 118-223_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 11-17_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 11_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 5-7_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 13_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 3_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 8-9_text.txt
+Successfully wrote to file: output\spokengospel_Mathew 15-1612_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 10_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 19-20_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 12_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 1613-1713_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 2711-2761_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 21-23_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 4_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 1714-1727_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 14_text.txt
+Successfully wrote to file: output\spokengospel_Matthew 26-2710_text.txt
+Successfully wrote to file: output\spokengospel_2 Peter 3_text.txt
+Successfully wrote to file: output\spokengospel_1 Peter 11-12_text.txt
+Successfully wrote to file: output\spokengospel_1 Peter 38-419_text.txt
+Successfully wrote to file: output\spokengospel_James 31-12_text.txt
+Successfully wrote to file: output\spokengospel_James 21-13_text.txt
+Successfully wrote to file: output\spokengospel_James 214-26_text.txt
+Successfully wrote to file: output\spokengospel_James 313-410_text.txt
+Successfully wrote to file: output\spokengospel_James 411-520_text.txt
+Successfully wrote to file: output\spokengospel_James 1_text.txt
+Successfully wrote to file: output\spokengospel_1 Peter 5_text.txt
+Successfully wrote to file: output\spokengospel_1 Peter 113-23_text.txt
+Successfully wrote to file: output\spokengospel_1 Peter 24-37_text.txt
+Successfully wrote to file: output\spokengospel_2 Peter 11-15_text.txt
+Successfully wrote to file: output\spokengospel_2 Peter 116-222_text.txt
+Successfully wrote to file: output\spokengospel_2 Timothy 4_text.txt
+Successfully wrote to file: output\spokengospel_1 Timothy 4_text.txt
+Successfully wrote to file: output\spokengospel_2 Timothy 214-317_text.txt
+Successfully wrote to file: output\spokengospel_Colossians 11-25_text.txt
+Successfully wrote to file: output\spokengospel_Colossians 318-46_text.txt
+Successfully wrote to file: output\spokengospel_Colossians 26-317_text.txt
+Successfully wrote to file: output\spokengospel_Colossians 47-18_text.txt
+Successfully wrote to file: output\spokengospel_1 Thessalonians 4-5_text.txt
+Successfully wrote to file: output\spokengospel_2 Thessalonians 3_text.txt
+Successfully wrote to file: output\spokengospel_2 Timothy 11-213_text.txt
+Successfully wrote to file: output\spokengospel_1 Timothy 5-6_text.txt
+Successfully wrote to file: output\spokengospel_1 Thessalonians 1-3_text.txt
+Successfully wrote to file: output\spokengospel_1 Timothy 2-3_text.txt
+Successfully wrote to file: output\spokengospel_1 Timothy 1_text.txt
+Successfully wrote to file: output\spokengospel_Philemon 1_text.txt
+Successfully wrote to file: output\spokengospel_Philippians 1_text.txt
+Successfully wrote to file: output\spokengospel_Ephesians 51-69_text.txt
+Successfully wrote to file: output\spokengospel_Philippians 4_text.txt
+Successfully wrote to file: output\spokengospel_Ephesians 1_text.txt
+Successfully wrote to file: output\spokengospel_Ephesians 610-23_text.txt
+Successfully wrote to file: output\spokengospel_Ephesians 2-3_text.txt
+Successfully wrote to file: output\spokengospel_Ephesians 4_text.txt
+Successfully wrote to file: output\spokengospel_Philippians 21-13_text.txt
+Successfully wrote to file: output\spokengospel_Philippians 214-30_text.txt
+Successfully wrote to file: output\spokengospel_Philippians 3_text.txt
+Successfully wrote to file: output\spokengospel_Acts 12_text.txt
+Successfully wrote to file: output\spokengospel_John 4_text.txt
+Successfully wrote to file: output\spokengospel_John 20-21_text.txt
+Successfully wrote to file: output\spokengospel_Luke 1928-214_text.txt
+Successfully wrote to file: output\spokengospel_Luke 10_text.txt
+Successfully wrote to file: output\spokengospel_Luke 7-821_text.txt
+Successfully wrote to file: output\spokengospel_Luke 11_text.txt
+Successfully wrote to file: output\spokengospel_Luke 24_text.txt
+Successfully wrote to file: output\spokengospel_Luke 15_text.txt
+Successfully wrote to file: output\spokengospel_Luke 2266-2356_text.txt
+Successfully wrote to file: output\spokengospel_Luke 222-65_text.txt
+Successfully wrote to file: output\spokengospel_Luke 215-221_text.txt
+Successfully wrote to file: output\spokengospel_Luke 17-1927_text.txt
+Successfully wrote to file: output\spokengospel_Luke 1-2_text.txt
+Successfully wrote to file: output\spokengospel_Luke 1310-1435_text.txt
+Successfully wrote to file: output\spokengospel_Luke 3-413_text.txt
+Successfully wrote to file: output\spokengospel_Luke 822-9_text.txt
+Successfully wrote to file: output\spokengospel_Luke 12-139_text.txt
+Successfully wrote to file: output\spokengospel_Luke 16_text.txt
+Successfully wrote to file: output\spokengospel_Luke 414-539_text.txt
+Successfully wrote to file: output\spokengospel_Luke 6_text.txt
+Successfully wrote to file: output\spokengospel_Mark 614-826_text.txt
+Successfully wrote to file: output\spokengospel_Mark 1516-168_text.txt
+Successfully wrote to file: output\spokengospel_Mark 11-20_text.txt
+Successfully wrote to file: output\spokengospel_Mark 313-434_text.txt
+Successfully wrote to file: output\spokengospel_Mark 827-932_text.txt
+Successfully wrote to file: output\spokengospel_Mark 218-312_text.txt
+Successfully wrote to file: output\spokengospel_Mark 13_text.txt
+Successfully wrote to file: output\spokengospel_Mark 121-217_text.txt
+Successfully wrote to file: output\spokengospel_Mark 933-1052_text.txt
+Successfully wrote to file: output\spokengospel_Mark 435-613_text.txt
+Successfully wrote to file: output\spokengospel_Mark 141-1532_text.txt
+Successfully wrote to file: output\spokengospel_Mark 111-1244_text.txt
+Successfully wrote to file: output\spokengospel_John 135-225_text.txt
+Successfully wrote to file: output\spokengospel_John 11-12_text.txt
+Successfully wrote to file: output\spokengospel_John 3_text.txt
+Successfully wrote to file: output\spokengospel_John 13_text.txt
+Successfully wrote to file: output\spokengospel_John 18_text.txt
+Successfully wrote to file: output\spokengospel_John 19_text.txt
+Successfully wrote to file: output\spokengospel_John 7_text.txt
+Successfully wrote to file: output\spokengospel_John 6_text.txt
+Successfully wrote to file: output\spokengospel_John 17_text.txt
+Successfully wrote to file: output\spokengospel_John 5_text.txt
+Successfully wrote to file: output\spokengospel_John 11-34_text.txt
+Successfully wrote to file: output\spokengospel_John 14-16_text.txt
+Successfully wrote to file: output\spokengospel_John 8-10_text.txt
+Successfully wrote to file: output\spokengospel_Acts 1-2_text.txt
+Successfully wrote to file: output\spokengospel_Acts 8_text.txt
+Successfully wrote to file: output\spokengospel_Acts 27-28_text.txt
+Successfully wrote to file: output\spokengospel_Acts 3-431_text.txt
+Successfully wrote to file: output\spokengospel_Acts 21-23_text.txt
+Successfully wrote to file: output\spokengospel_Acts 16-1817_text.txt
+Successfully wrote to file: output\spokengospel_Acts 24-26_text.txt
+Successfully wrote to file: output\spokengospel_Acts 932-11_text.txt
+Successfully wrote to file: output\spokengospel_Acts 6-83_text.txt
+Successfully wrote to file: output\spokengospel_Acts 432-5_text.txt
+Successfully wrote to file: output\spokengospel_Acts 1818-20_text.txt
+Successfully wrote to file: output\spokengospel_Acts 15_text.txt
+Successfully wrote to file: output\spokengospel_Acts 13-14_text.txt
+Successfully wrote to file: output\spokengospel_Acts 91-931_text.txt
+Total Articles are Scraped: 954
+Script Started at: 05-11-2024 20:48:37
+Script Stopped at: 05-11-2024 20:50:50

@@ -1,0 +1,5 @@
+[INIT] Script started at 11-11-2024 22:52:56
+0 Total Products Are Scrapped 
+0 Total Duplicate Products found and skipped
+Script started at 11-11-2024 22:52:56
+Script Stopped at 11-11-2024 22:53:17

@@ -1,0 +1,6 @@
+[INIT] Script started at 09-11-2024 19:01:21
+[PARSE_PRODUCT_DETAIL] JSON parsing error for keyword "Gaming laptops" - Expecting value: line 1 column 1 (char 0)
+0 Total Products Are Scrapped 
+0 Total Duplicate Products found and skipped
+Script started at 09-11-2024 19:01:21
+Script Stopped at 09-11-2024 19:01:27
