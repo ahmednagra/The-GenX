@@ -1,0 +1,2081 @@
+Page NO,Category,Name,Categories,Key Words,Vendors,Color,Crystal Structure,Physical Properties,Chemical Properties,Mechanical Properties,Electrical Properties,Thermal Properties,Optical Properties,Component Elements Properties,Descriptive Properties,Processing,URL,Material,url,Description,Alloy Composition,Base Metal Price (% relative),Brinell Hardness,Compressive (crushing) Strength (MPa),Curie Temperature (°C),Density (g/cm³),Dielectric Constant (relative Permittivity) At 1Hz,Dielectric Constant (relative Permittivity) At 1Mhz,Dielectric Strength (breakdown Potential) (kV/mm),"Elastic (Young's, Tensile) Modulus (GPa)",Electrical Conductivity: Equal Volume (% IACS),Electrical Conductivity: Equal Weight (specific) (% IACS),Electrical Dissipation At 1Hz,Electrical Dissipation At 1Mhz,Electrical Resistivity Order Of Magnitude (10),Elongation At Break (%),Embodied Carbon (kg CO₂),Embodied Energy (MJ/kg),Embodied Water (L/kg),Fatigue Strength (MPa),Flexural Modulus (GPa),Flexural Strength (MPa),Follow-up Questions,Fracture Toughness (MPa·m),Further Reading,Glass Transition Temperature (°C),Heat Deflection Temperature At 1.82Mpa (264Psi) (°C),Impact Strength: Notched Izod (J/m),Impact Strength: V-notched Charpy (J),Knoop Hardness,Latent Heat Of Fusion (J/g),Light Transmission Range (µm),Limiting Oxygen Index (loi) (%),Maximum Temperature: Autoignition (°C),Maximum Temperature: Corrosion (°C),Maximum Temperature: Decomposition (°C),Maximum Temperature: Mechanical (°C),Maximum Thermal Shock (°C),Melting Completion (liquidus) (°C),Melting Onset (solidus) (°C),Poisson's Ratio,Pren (pitting Resistance),Reduction In Area (%),Refractive Index,Resilience: Ultimate (unit Rupture Work) (MJ/m³),Resilience: Unit (modulus Of Resilience) (kJ/m³),Rockwell B Hardness,Rockwell C Hardness,Rockwell M Hardness,Shear Modulus (GPa),Shear Strength (MPa),Solidification (pattern Maker's) Shrinkage (%),Specific Heat Capacity (J/kg·K),Stiffness To Weight: Axial (points),Stiffness To Weight: Bending (points),Strength To Weight: Axial (points),Strength To Weight: Bending (points),Tensile Strength: Ultimate (uts) (MPa),Tensile Strength: Yield (proof) (MPa),Thermal Conductivity (W/m·K),Thermal Diffusivity (mm²/s),Thermal Expansion (µm/m·K),Thermal Shock Resistance (points),Vicat Softening Temperature (°C),Water Absorption After 24 Hours (%),Water Absorption At Saturation (%),Material ID (MAT_ID),Material Designation,Manufacturer/Supplier,Chemical Composition,Semifinished Material Information,Heat Treatment,Microstructure,Hardness,Testing Conditions (Axial Loading),Monotonic Properties,Monotonic Stress-Strain Curves (Ramberg-Osgood Model),"Cyclic/Fatigue Properties (Axial Loading, Fully Reversed)",Testing Temperature (°C),Testing Medium,Loading Type,Loading Control,Specimen,Loading Ratio,Additional Remarks,Fatigue Properties,Fatigue Strain-Life Parameters (Coffin-Manson-Basquin Model),Collecting Cyclic Stress-Strain Plot Data,Collecting Strain-Life Fatigue Plot Data
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11,"DIN: TSt 42
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: 
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Luft G. Zeitfestigkeitsverhalten von Stählen. Technische-wissenschaftliche Berichte, Heft 68-02. MPA Stuttgart; 1968.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: sheet
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 350.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: 
+Strain Rate: 
+Additional Remarks: ","Young's Modulus (N/mm²): 177000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 165.0
+Ultimate Tensile Strength (N/mm²): 466.0
+Elongation (A5, %): 29.0
+Reduction of Area (RA, %): 59.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,350.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 302.0
+Cyclic Strength Coefficient (N/mm²): 857.0
+Cyclic Strain Hardening Exponent: 0.168","Transition Life (Number of Cycles): 4024
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.143
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.786
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 569.0
+Fatigue Strength Exponent: -0.074
+Fatigue Ductility Coefficient: 0.096
+Fatigue Ductility Exponent: -0.451",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=11&ChartDirectorChartImage=chart_cycChart&cacheId=7a712295ff014ff3b43bad83ac0561cb&cacheDefeat=638681460849720581,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=11&ChartDirectorChartImage=chart_fatChart&cacheId=f51325344f014deca47befeb1a082146&cacheDefeat=638681460849720581
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,50,"DIN: St 52
+W.Nr. (DIN 17007): 1.0580
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SGV 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Iida K, Yamauchi T, Satoh M, Takano G. Fatigue strength of Electron Beam Welded Joint of Carbon Steel. IIW-Doc XII1-1201-86. Tokyo; 1986.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate, 20 mm, thick
+Dimensions (mm): ","Heat Treatment Type: 
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 160.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: location/orientation: transversal to rolling direction ; gauge length: NA
+Strain Rate:  NA
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 206000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 420.0
+Ultimate Tensile Strength (N/mm²): 549.0
+Elongation (A5, %): 28.0
+Reduction of Area (RA, %): 69.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 371.0
+Strain Hardening Exponent: 0.007",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 352.0
+Cyclic Strength Coefficient (N/mm²): 1109.0
+Cyclic Strain Hardening Exponent: 0.185","Transition Life (Number of Cycles): 18921
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.058
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.322
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 980.0
+Fatigue Strength Exponent: -0.1
+Fatigue Ductility Coefficient: 0.495
+Fatigue Ductility Exponent: -0.541",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=50&ChartDirectorChartImage=chart_cycChart&cacheId=eeb0e34de12c417eb9f4c1a3a381d115&cacheDefeat=638681460854770283,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=50&ChartDirectorChartImage=chart_fatChart&cacheId=422f3d12a7a64d68994916b72b86b517&cacheDefeat=638681460854770283
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 300.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: transversal to rolling direction ; gauge length: 50 mm
+Strain Rate:  0,4 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 198000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 213.0
+Ultimate Tensile Strength (N/mm²): 567.0
+Elongation (A5, %): 27.0
+Reduction of Area (RA, %): 56.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,300.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 421.0
+Cyclic Strength Coefficient (N/mm²): 974.0
+Cyclic Strain Hardening Exponent: 0.14","Transition Life (Number of Cycles): 5761
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.022
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.052
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 1041.0
+Fatigue Strength Exponent: -0.099
+Fatigue Ductility Coefficient: 1.597
+Fatigue Ductility Exponent: -0.711",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=20&ChartDirectorChartImage=chart_cycChart&cacheId=a7b2894ee02a441aa10b816572edc17a&cacheDefeat=638681460858545538,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=20&ChartDirectorChartImage=chart_fatChart&cacheId=bf0cdd0521294426af11929265f6b077&cacheDefeat=638681460858545538
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,49,"DIN: St 52-3
+W.Nr. (DIN 17007): 1.0841
+EN: 
+AISI: 
+AFNOR: FeV340-50HE
+ASTM: 
+BS: 340-50-E5
+GOST: 
+HRN: 
+ISO: 
+JIS: 
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Klee S. Das zyklische Spannungs-Dehnungs- und Bruchverhalten verschiedener Stahle. Veroffentlichungen des Instituts fur Statik und Stahlbau, No 22. TH Darmstadt; 1973.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: flat bar, 25
+Dimensions (mm): 12 mm","Heat Treatment Type: hotrolled
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: displacement control
+Specimen Information: hourglass shaped, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: diametral
+Strain Rate:  NA
+Additional Remarks: testing machine: Schneck, PVTO with special equipment","Young's Modulus (N/mm²): 210000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 400.0
+Ultimate Tensile Strength (N/mm²): 597.0
+Elongation (A5, %): 0.0
+Reduction of Area (RA, %): 63.0
+True Fracture Stress (N/mm²): 1083.0
+True Fracture Strain: 0.98","Strength Coefficient (N/mm²): 1061.0
+Strain Hardening Exponent: 0.225",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 377.0
+Cyclic Strength Coefficient (N/mm²): 1337.0
+Cyclic Strain Hardening Exponent: 0.207","Transition Life (Number of Cycles): 2296175
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.081
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.605
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 1293.0
+Fatigue Strength Exponent: -0.115
+Fatigue Ductility Coefficient: 0.4954
+Fatigue Ductility Exponent: -0.515",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=49&ChartDirectorChartImage=chart_cycChart&cacheId=c8ed5bd88b0d4869a8144a4a9f59c434&cacheDefeat=638681460865653574,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=49&ChartDirectorChartImage=chart_fatChart&cacheId=9d68cab9ece3461c9a480e318fba95b2&cacheDefeat=638681460865653574
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,47,"DIN: St 50
+W.Nr. (DIN 17007): 1.0531
+EN: 
+AISI: 
+AFNOR: C550
+ASTM: 
+BS: Z55
+GOST: 09 G 2
+HRN: 
+ISO: 
+JIS: 
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Prowatke G. Zum zyklischen Werkstoffgesetz des Schiffbaustahls 09 G 2. Schiffbauforschung 1982;21(1):29-34.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: rolled sheet, 7 mm thick
+Dimensions (mm): ","Heat Treatment Type: annealed
+Additional Remarks: stress relieved annealed","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: flat sheet, 10x6 mm ; location/orientation: NA ; gauge length: diametral
+Strain Rate:  NA
+Additional Remarks: testing machine: servohydraulic","Young's Modulus (N/mm²): 198000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 340.0
+Ultimate Tensile Strength (N/mm²): 512.0
+Elongation (A5, %): 34.0
+Reduction of Area (RA, %): 70.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 319.0
+Cyclic Strength Coefficient (N/mm²): 680.0
+Cyclic Strain Hardening Exponent: 0.122","Transition Life (Number of Cycles): 16624
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.06
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 2.051
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 596.0
+Fatigue Strength Exponent: -0.063
+Fatigue Ductility Coefficient: 0.306
+Fatigue Ductility Exponent: -0.507",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=47&ChartDirectorChartImage=chart_cycChart&cacheId=311c0412f7854745a77d5b666d6f2b4d&cacheDefeat=638681460870372223,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=47&ChartDirectorChartImage=chart_fatChart&cacheId=8387219eef6f41c9bda5881bad573f8f&cacheDefeat=638681460870372223
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,48,"DIN: St 52-3
+W.Nr. (DIN 17007): 1.0841
+EN: 
+AISI: 
+AFNOR: FeV340-50HE
+ASTM: 
+BS: 340-50-E5
+GOST: 
+HRN: 
+ISO: 
+JIS: 
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Klee S. Das zyklische Spannungs-Dehnungs- und Bruchverhalten verschiedener Stahle. Veroffentlichungen des Instituts fur Statik und Stahlbau, No 22. TH Darmstadt; 1973.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: flat bar, 25
+Dimensions (mm): 12 mm","Heat Treatment Type: hotrolled
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: displacement control
+Specimen Information: hourglass shaped, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: diametral
+Strain Rate:  NA
+Additional Remarks: testing machine: Schneck, PVTO with special equipment","Young's Modulus (N/mm²): 210000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 400.0
+Ultimate Tensile Strength (N/mm²): 597.0
+Elongation (A5, %): 0.0
+Reduction of Area (RA, %): 63.0
+True Fracture Stress (N/mm²): 1083.0
+True Fracture Strain: 0.98","Strength Coefficient (N/mm²): 1061.0
+Strain Hardening Exponent: 0.225",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 389.0
+Cyclic Strength Coefficient (N/mm²): 1228.0
+Cyclic Strain Hardening Exponent: 0.185","Transition Life (Number of Cycles): 1000307
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.109
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.695
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 1193.0
+Fatigue Strength Exponent: -0.11
+Fatigue Ductility Coefficient: 0.6601
+Fatigue Ductility Exponent: -0.553",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=48&ChartDirectorChartImage=chart_cycChart&cacheId=1be82ff57de447749c3da40eb49df373&cacheDefeat=638681460876295117,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=48&ChartDirectorChartImage=chart_fatChart&cacheId=a778c61db6924f69b10e700875bdf246&cacheDefeat=638681460876295117
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,46,"DIN: St 50
+W.Nr. (DIN 17007): 1.0531
+EN: 
+AISI: 
+AFNOR: C550
+ASTM: 
+BS: Z55
+GOST: 
+HRN: 
+ISO: 
+JIS: SM 50 B
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Nihei M, Konno T, Iida K. Prediction of Fatigue Strength under Bending by Use of Hysteresis Energy Concept. Proceedings of Nippon Zoosen Gakkai (in Japanese); 1984. pp 511-521.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate, 40 mm, thick
+Dimensions (mm): ","Heat Treatment Type: 
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 149.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: flat sheet, uniform gauge 16x16 mm ; location/orientation: NA ; gauge length: 48 mm
+Strain Rate:  NA
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 206000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 385.0
+Ultimate Tensile Strength (N/mm²): 526.0
+Elongation (A5, %): 35.0
+Reduction of Area (RA, %): 0.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,0.0,"Cyclic Yield Strength (N/mm²): 0.0
+Cyclic Strength Coefficient (N/mm²): 0.0
+Cyclic Strain Hardening Exponent: 0.0","Transition Life (Number of Cycles): 
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 0.0
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 0.0
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 0.0
+Fatigue Strength Exponent: 0.0
+Fatigue Ductility Coefficient: 0.0
+Fatigue Ductility Exponent: 0.0",,
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,44,"DIN: St 50
+W.Nr. (DIN 17007): 1.0531
+EN: 
+AISI: 
+AFNOR: C550
+ASTM: 
+BS: Z55
+GOST: 
+HRN: 
+ISO: 
+JIS: SM 50 B
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Nihei M, Konno T, Iida K. Prediction of Fatigue Strength under Bending by Use of Hysteresis Energy Concept. Proceedings of Nippon Zoosen Gakkai (in Japanese); 1984. pp 511-521.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate, 9 mm, thick
+Dimensions (mm): ","Heat Treatment Type: 
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 156.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: flat sheet, uniform gauge 7x20 mm ; location/orientation: NA ; gauge length: 21 mm
+Strain Rate:  NA
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 206000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 400.0
+Ultimate Tensile Strength (N/mm²): 541.0
+Elongation (A5, %): 25.0
+Reduction of Area (RA, %): 0.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,0.0,"Cyclic Yield Strength (N/mm²): 0.0
+Cyclic Strength Coefficient (N/mm²): 0.0
+Cyclic Strain Hardening Exponent: 0.0","Transition Life (Number of Cycles): 
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 0.0
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 0.0
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 0.0
+Fatigue Strength Exponent: 0.0
+Fatigue Ductility Coefficient: 0.0
+Fatigue Ductility Exponent: 0.0",,
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,45,"DIN: St 50
+W.Nr. (DIN 17007): 1.0531
+EN: 
+AISI: 
+AFNOR: C550
+ASTM: 
+BS: Z55
+GOST: 
+HRN: 
+ISO: 
+JIS: SM 50 B
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Nihei M, Konno T, Iida K. Prediction of Fatigue Strength under Bending by Use of Hysteresis Energy Concept. Proceedings of Nippon Zoosen Gakkai (in Japanese); 1984. pp 511-521.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate, 20 mm, thick
+Dimensions (mm): ","Heat Treatment Type: 
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 154.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: flat sheet, uniform gauge 16x16 mm ; location/orientation: NA ; gauge length: 48 mm
+Strain Rate:  NA
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 206000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 385.0
+Ultimate Tensile Strength (N/mm²): 534.0
+Elongation (A5, %): 31.0
+Reduction of Area (RA, %): 0.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,0.0,"Cyclic Yield Strength (N/mm²): 0.0
+Cyclic Strength Coefficient (N/mm²): 0.0
+Cyclic Strain Hardening Exponent: 0.0","Transition Life (Number of Cycles): 
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 0.0
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 0.0
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 0.0
+Fatigue Strength Exponent: 0.0
+Fatigue Ductility Coefficient: 0.0
+Fatigue Ductility Exponent: 0.0",,
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,43,"DIN: St 50
+W.Nr. (DIN 17007): 1.0531
+EN: 
+AISI: 
+AFNOR: C550
+ASTM: 
+BS: Z55
+GOST: 
+HRN: 
+ISO: 
+JIS: SM 50 B
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Nihei M, Konno T, Iida K. Prediction of Fatigue Strength under Bending by Use of Hysteresis Energy Concept. Proceedings of Nippon Zoosen Gakkai (in Japanese); 1984. pp 511-521.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate, 40 mm, thick
+Dimensions (mm): ","Heat Treatment Type: 
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 149.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: flat sheet, uniform gauge 16x16 mm ; location/orientation: NA ; gauge length: 48 mm
+Strain Rate:  NA
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 206000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 350.0
+Ultimate Tensile Strength (N/mm²): 526.0
+Elongation (A5, %): 35.0
+Reduction of Area (RA, %): 0.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 315.0
+Cyclic Strength Coefficient (N/mm²): 1116.0
+Cyclic Strain Hardening Exponent: 0.204","Transition Life (Number of Cycles): 20754
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.073
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.532
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 691.0
+Fatigue Strength Exponent: -0.081
+Fatigue Ductility Coefficient: 0.083
+Fatigue Ductility Exponent: -0.383",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=43&ChartDirectorChartImage=chart_cycChart&cacheId=2834a3c4dc574bf795884286ed5c5e96&cacheDefeat=638681460893808551,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=43&ChartDirectorChartImage=chart_fatChart&cacheId=bbedfcd5fd1c4a54bf85ab2c3ff97b73&cacheDefeat=638681460893818524
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,41,"DIN: St 50
+W.Nr. (DIN 17007): 1.0531
+EN: 
+AISI: 
+AFNOR: C550
+ASTM: 
+BS: Z55
+GOST: 
+HRN: 
+ISO: 
+JIS: SM 50 B
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Nihei M, Konno T, Iida K. Prediction of Fatigue Strength under Bending by Use of Hysteresis Energy Concept. Proceedings of Nippon Zoosen Gakkai (in Japanese); 1984. pp 511-521.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate, 9 mm, thick
+Dimensions (mm): ","Heat Treatment Type: 
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 156.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: flat sheet, uniform gauge 7x20 mm ; location/orientation: NA ; gauge length: 21 mm
+Strain Rate:  NA
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 206000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 400.0
+Ultimate Tensile Strength (N/mm²): 541.0
+Elongation (A5, %): 25.0
+Reduction of Area (RA, %): 0.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 313.0
+Cyclic Strength Coefficient (N/mm²): 1137.0
+Cyclic Strain Hardening Exponent: 0.208","Transition Life (Number of Cycles): 23040
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.09
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.831
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 690.0
+Fatigue Strength Exponent: -0.08
+Fatigue Ductility Coefficient: 0.056
+Fatigue Ductility Exponent: -0.342",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=41&ChartDirectorChartImage=chart_cycChart&cacheId=2d9f8d6a407440f9bece779a5052d763&cacheDefeat=638681460899138683,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=41&ChartDirectorChartImage=chart_fatChart&cacheId=ee68d403c12e4a73af457f5f4242f243&cacheDefeat=638681460899138683
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,40,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 500.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 192000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 175.0
+Ultimate Tensile Strength (N/mm²): 340.0
+Elongation (A5, %): 40.0
+Reduction of Area (RA, %): 77.0
+True Fracture Stress (N/mm²): 742.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,500.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 197.0
+Cyclic Strength Coefficient (N/mm²): 411.0
+Cyclic Strain Hardening Exponent: 0.118","Transition Life (Number of Cycles): 2716
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.066
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.214
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 406.0
+Fatigue Strength Exponent: -0.095
+Fatigue Ductility Coefficient: 0.978
+Fatigue Ductility Exponent: -0.808",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=40&ChartDirectorChartImage=chart_cycChart&cacheId=fc1555f248af4814a06ad296806ca6a8&cacheDefeat=638681460903695676,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=40&ChartDirectorChartImage=chart_fatChart&cacheId=6dbd1f6a2e4544dfa3cfc349a7cc03e5&cacheDefeat=638681460903695676
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,39,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 500.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 192000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 175.0
+Ultimate Tensile Strength (N/mm²): 340.0
+Elongation (A5, %): 40.0
+Reduction of Area (RA, %): 77.0
+True Fracture Stress (N/mm²): 742.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,500.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 215.0
+Cyclic Strength Coefficient (N/mm²): 513.0
+Cyclic Strain Hardening Exponent: 0.14","Transition Life (Number of Cycles): 7690
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.096
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.784
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 472.0
+Fatigue Strength Exponent: -0.091
+Fatigue Ductility Coefficient: 0.552
+Fatigue Ductility Exponent: -0.653",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=39&ChartDirectorChartImage=chart_cycChart&cacheId=4042fe6a8d1c4fd092c54e977bbc7e00&cacheDefeat=638681460908240612,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=39&ChartDirectorChartImage=chart_fatChart&cacheId=895ad6e7dc554738a9a78bb9a34308a4&cacheDefeat=638681460908240612
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,38,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 500.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 192000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 175.0
+Ultimate Tensile Strength (N/mm²): 340.0
+Elongation (A5, %): 40.0
+Reduction of Area (RA, %): 77.0
+True Fracture Stress (N/mm²): 742.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,500.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 232.0
+Cyclic Strength Coefficient (N/mm²): 630.0
+Cyclic Strain Hardening Exponent: 0.161","Transition Life (Number of Cycles): 13520
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.052
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.716
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 557.0
+Fatigue Strength Exponent: -0.096
+Fatigue Ductility Coefficient: 0.458
+Fatigue Ductility Exponent: -0.592",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=38&ChartDirectorChartImage=chart_cycChart&cacheId=071a9d2ad02640e29cab6060401139d1&cacheDefeat=638681460914290063,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=38&ChartDirectorChartImage=chart_fatChart&cacheId=f1e687c0a06643d88ad4b03b47dfa5bd&cacheDefeat=638681460914290063
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,37,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 400.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 206000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 191.0
+Ultimate Tensile Strength (N/mm²): 462.0
+Elongation (A5, %): 32.0
+Reduction of Area (RA, %): 69.0
+True Fracture Stress (N/mm²): 928.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,400.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 323.0
+Cyclic Strength Coefficient (N/mm²): 664.0
+Cyclic Strain Hardening Exponent: 0.116","Transition Life (Number of Cycles): 2963
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.131
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.864
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 678.0
+Fatigue Strength Exponent: -0.088
+Fatigue Ductility Coefficient: 1.752
+Fatigue Ductility Exponent: -0.811",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=37&ChartDirectorChartImage=chart_cycChart&cacheId=b92b8e67815247bfaea79b93011ac89c&cacheDefeat=638681460918232510,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=37&ChartDirectorChartImage=chart_fatChart&cacheId=fee49ee0f6644ff2bde1c1e414b7f8b5&cacheDefeat=638681460918232510
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,36,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 400.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 206000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 191.0
+Ultimate Tensile Strength (N/mm²): 462.0
+Elongation (A5, %): 32.0
+Reduction of Area (RA, %): 69.0
+True Fracture Stress (N/mm²): 928.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,400.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 341.0
+Cyclic Strength Coefficient (N/mm²): 540.0
+Cyclic Strain Hardening Exponent: 0.074","Transition Life (Number of Cycles): 5281
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.205
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.939
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 477.0
+Fatigue Strength Exponent: -0.038
+Fatigue Ductility Coefficient: 0.391
+Fatigue Ductility Exponent: -0.591",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=36&ChartDirectorChartImage=chart_cycChart&cacheId=ee830df386454303b0302a0fc7c45a7d&cacheDefeat=638681460922585194,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=36&ChartDirectorChartImage=chart_fatChart&cacheId=bf2295525ec94b70a71c566d2c04c075&cacheDefeat=638681460922585194
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,42,"DIN: St 50
+W.Nr. (DIN 17007): 1.0531
+EN: 
+AISI: 
+AFNOR: C550
+ASTM: 
+BS: Z55
+GOST: 
+HRN: 
+ISO: 
+JIS: SM 50 B
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Nihei M, Konno T, Iida K. Prediction of Fatigue Strength under Bending by Use of Hysteresis Energy Concept. Proceedings of Nippon Zoosen Gakkai (in Japanese); 1984. pp 511-521.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate, 20 mm, thick
+Dimensions (mm): ","Heat Treatment Type: 
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 154.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: flat sheet, uniform gauge 16x16 mm ; location/orientation: NA ; gauge length: 48 mm
+Strain Rate:  NA
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 206000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 385.0
+Ultimate Tensile Strength (N/mm²): 534.0
+Elongation (A5, %): 31.0
+Reduction of Area (RA, %): 0.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 319.0
+Cyclic Strength Coefficient (N/mm²): 998.0
+Cyclic Strain Hardening Exponent: 0.184","Transition Life (Number of Cycles): 19020
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.125
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.506
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 693.0
+Fatigue Strength Exponent: -0.08
+Fatigue Ductility Coefficient: 0.077
+Fatigue Ductility Exponent: -0.377",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=42&ChartDirectorChartImage=chart_cycChart&cacheId=e2158c6465314922bc464b4b9b8a92e8&cacheDefeat=638681460925843596,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=42&ChartDirectorChartImage=chart_fatChart&cacheId=f0748d9cb6ae445b9af9e2c6d74b4934&cacheDefeat=638681460925843596
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,34,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 300.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 210000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 211.0
+Ultimate Tensile Strength (N/mm²): 510.0
+Elongation (A5, %): 24.0
+Reduction of Area (RA, %): 54.0
+True Fracture Stress (N/mm²): 885.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,300.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 453.0
+Cyclic Strength Coefficient (N/mm²): 717.0
+Cyclic Strain Hardening Exponent: 0.074","Transition Life (Number of Cycles): 1789
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.071
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.604
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 732.0
+Fatigue Strength Exponent: -0.058
+Fatigue Ductility Coefficient: 1.3899
+Fatigue Ductility Exponent: -0.789",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=34&ChartDirectorChartImage=chart_cycChart&cacheId=43725a8fa2454541a5941339c9253887&cacheDefeat=638681460935187436,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=34&ChartDirectorChartImage=chart_fatChart&cacheId=9bfcc27bc20a409a84053f5abab17c61&cacheDefeat=638681460935187436
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,35,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 400.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 206000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 191.0
+Ultimate Tensile Strength (N/mm²): 462.0
+Elongation (A5, %): 32.0
+Reduction of Area (RA, %): 69.0
+True Fracture Stress (N/mm²): 928.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,400.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 347.0
+Cyclic Strength Coefficient (N/mm²): 650.0
+Cyclic Strain Hardening Exponent: 0.101","Transition Life (Number of Cycles): 5602
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.201
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.55
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 535.0
+Fatigue Strength Exponent: -0.048
+Fatigue Ductility Coefficient: 0.172
+Fatigue Ductility Exponent: -0.498",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=35&ChartDirectorChartImage=chart_cycChart&cacheId=c5e7a222955b454398ad4080736e39db&cacheDefeat=638681460929949019,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=35&ChartDirectorChartImage=chart_fatChart&cacheId=5af2ae5677774bc3a9ffada0540cb8a3&cacheDefeat=638681460929949019
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,32,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 200.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 196000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 277.0
+Ultimate Tensile Strength (N/mm²): 474.0
+Elongation (A5, %): 26.0
+Reduction of Area (RA, %): 60.0
+True Fracture Stress (N/mm²): 924.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,200.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 345.0
+Cyclic Strength Coefficient (N/mm²): 950.0
+Cyclic Strain Hardening Exponent: 0.163","Transition Life (Number of Cycles): 16186
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.079
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.294
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 791.0
+Fatigue Strength Exponent: -0.083
+Fatigue Ductility Coefficient: 0.298
+Fatigue Ductility Exponent: -0.497",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=32&ChartDirectorChartImage=chart_cycChart&cacheId=929ed7c1aa0b4609a4e14545051a7403&cacheDefeat=638681460963360584,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=32&ChartDirectorChartImage=chart_fatChart&cacheId=912b3e1267c3481185221fe2f19f077c&cacheDefeat=638681460963360584
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,33,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 300.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 210000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 211.0
+Ultimate Tensile Strength (N/mm²): 510.0
+Elongation (A5, %): 24.0
+Reduction of Area (RA, %): 54.0
+True Fracture Stress (N/mm²): 885.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,300.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 433.0
+Cyclic Strength Coefficient (N/mm²): 644.0
+Cyclic Strain Hardening Exponent: 0.064","Transition Life (Number of Cycles): 2656
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.085
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.488
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 632.0
+Fatigue Strength Exponent: -0.044
+Fatigue Ductility Coefficient: 0.7
+Fatigue Ductility Exponent: -0.679",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=33&ChartDirectorChartImage=chart_cycChart&cacheId=80432d86836a4b3093f68ad7fd44dd95&cacheDefeat=638681460968865029,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=33&ChartDirectorChartImage=chart_fatChart&cacheId=face754581e04472a6946b81a256faa4&cacheDefeat=638681460968894876
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 200.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 196000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 277.0
+Ultimate Tensile Strength (N/mm²): 474.0
+Elongation (A5, %): 26.0
+Reduction of Area (RA, %): 60.0
+True Fracture Stress (N/mm²): 924.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,200.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 308.0
+Cyclic Strength Coefficient (N/mm²): 974.0
+Cyclic Strain Hardening Exponent: 0.185","Transition Life (Number of Cycles): 24706
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.095
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.215
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 817.0
+Fatigue Strength Exponent: -0.095
+Fatigue Ductility Coefficient: 0.383
+Fatigue Ductility Exponent: -0.513",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=31&ChartDirectorChartImage=chart_cycChart&cacheId=3ce2d8a63b7a4f5f85a0f443a3311ce2&cacheDefeat=638681460974691643,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=31&ChartDirectorChartImage=chart_fatChart&cacheId=df650392802f453ba02197bd4d52f530&cacheDefeat=638681460974691643
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30,"DIN: St 49
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 49
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: NRIM Fatigue Data Sheet No 22. Tokyo: National Research Institute for Metals; 1980.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 68x1620x4400 mm
+Dimensions (mm): ","Heat Treatment Type: normalized & annealed
+Additional Remarks: hotrolled, 900°C/4h, air, 620°C/3,5h, air","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 143.0
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 6 mm ; location/orientation: in rolling direction ; gauge length: 30 mm
+Strain Rate:  NA ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 210000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 306.0
+Ultimate Tensile Strength (N/mm²): 524.0
+Elongation (A5, %): 32.0
+Reduction of Area (RA, %): 62.0
+True Fracture Stress (N/mm²): 1062.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 305.0
+Cyclic Strength Coefficient (N/mm²): 1094.0
+Cyclic Strain Hardening Exponent: 0.206","Transition Life (Number of Cycles): 26611
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.08
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.21
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 914.0
+Fatigue Strength Exponent: -0.109
+Fatigue Ductility Coefficient: 0.422
+Fatigue Ductility Exponent: -0.529",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=30&ChartDirectorChartImage=chart_cycChart&cacheId=cffa9e7640224956936c846e792f6e33&cacheDefeat=638681460979733498,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=30&ChartDirectorChartImage=chart_fatChart&cacheId=49a839b100d64723a94b5f19a1b9aead&cacheDefeat=638681460979733498
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,29,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 500.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: transversal to rolling direction ; gauge length: 50 mm
+Strain Rate:  40 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 175000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 208.0
+Ultimate Tensile Strength (N/mm²): 337.0
+Elongation (A5, %): 39.0
+Reduction of Area (RA, %): 82.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,500.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 224.0
+Cyclic Strength Coefficient (N/mm²): 632.0
+Cyclic Strain Hardening Exponent: 0.167","Transition Life (Number of Cycles): 13236
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.052
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.22
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 709.0
+Fatigue Strength Exponent: -0.122
+Fatigue Ductility Coefficient: 2.048
+Fatigue Ductility Exponent: -0.733",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=29&ChartDirectorChartImage=chart_cycChart&cacheId=322a2985d9404d44914c3ac2ce626d12&cacheDefeat=638681460985446862,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=29&ChartDirectorChartImage=chart_fatChart&cacheId=ab5dba2dacd24c9cb86551004d9b8ea4&cacheDefeat=638681460985603058
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,28,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 500.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: transversal to rolling direction ; gauge length: 50 mm
+Strain Rate:  0,4 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 175000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 158.0
+Ultimate Tensile Strength (N/mm²): 269.0
+Elongation (A5, %): 41.0
+Reduction of Area (RA, %): 85.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,500.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 174.0
+Cyclic Strength Coefficient (N/mm²): 354.0
+Cyclic Strain Hardening Exponent: 0.115","Transition Life (Number of Cycles): 4667
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.02
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.116
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 483.0
+Fatigue Strength Exponent: -0.122
+Fatigue Ductility Coefficient: 15.486
+Fatigue Ductility Exponent: -1.066",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=28&ChartDirectorChartImage=chart_cycChart&cacheId=1405d531e14945eb9e92395af0fa62a8&cacheDefeat=638681460991245845,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=28&ChartDirectorChartImage=chart_fatChart&cacheId=15f77f9887204b269e6b68ecd3753284&cacheDefeat=638681460991245845
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 500.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: in rolling direction ; gauge length: 50 mm
+Strain Rate:  40 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 170000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 173.0
+Ultimate Tensile Strength (N/mm²): 340.0
+Elongation (A5, %): 37.0
+Reduction of Area (RA, %): 87.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,500.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 231.0
+Cyclic Strength Coefficient (N/mm²): 585.0
+Cyclic Strain Hardening Exponent: 0.15","Transition Life (Number of Cycles): 10371
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.066
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.366
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 697.0
+Fatigue Strength Exponent: -0.118
+Fatigue Ductility Coefficient: 3.1629
+Fatigue Ductility Exponent: -0.784",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=27&ChartDirectorChartImage=chart_cycChart&cacheId=b78c9e1f066342c5806a9893343fb4fb&cacheDefeat=638681460996386004,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=27&ChartDirectorChartImage=chart_fatChart&cacheId=121963deb9ea4bc8a00d22b73ad184ad&cacheDefeat=638681460996406002
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 500.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: in rolling direction ; gauge length: 50 mm
+Strain Rate:  0,4 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 170000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 162.0
+Ultimate Tensile Strength (N/mm²): 256.0
+Elongation (A5, %): 40.0
+Reduction of Area (RA, %): 57.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,500.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 169.0
+Cyclic Strength Coefficient (N/mm²): 321.0
+Cyclic Strain Hardening Exponent: 0.103","Transition Life (Number of Cycles): 9231
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.022
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.481
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 365.0
+Fatigue Strength Exponent: -0.087
+Fatigue Ductility Coefficient: 3.197
+Fatigue Ductility Exponent: -0.831",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=26&ChartDirectorChartImage=chart_cycChart&cacheId=8afb994710ee477089a771761e87f5d8&cacheDefeat=638681461001875739,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=26&ChartDirectorChartImage=chart_fatChart&cacheId=164ea9be00f44c2cacde30ca6780c9f5&cacheDefeat=638681461002032054
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 400.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: transversal to rolling direction ; gauge length: 50 mm
+Strain Rate:  0,4 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 196000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 185.0
+Ultimate Tensile Strength (N/mm²): 446.0
+Elongation (A5, %): 33.0
+Reduction of Area (RA, %): 67.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,400.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 286.0
+Cyclic Strength Coefficient (N/mm²): 756.0
+Cyclic Strain Hardening Exponent: 0.156","Transition Life (Number of Cycles): 6293
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.107
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.963
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 967.0
+Fatigue Strength Exponent: -0.135
+Fatigue Ductility Coefficient: 5.4589
+Fatigue Ductility Exponent: -0.877",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=24&ChartDirectorChartImage=chart_cycChart&cacheId=5b5b0d5293bc46109fc39a70bbb385a3&cacheDefeat=638681461007240192,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=24&ChartDirectorChartImage=chart_fatChart&cacheId=fc2b3968bd5b45fd85bc23f351346027&cacheDefeat=638681461007240192
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 400.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: in rolling direction ; gauge length: 50 mm
+Strain Rate:  40 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 193000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 191.0
+Ultimate Tensile Strength (N/mm²): 457.0
+Elongation (A5, %): 31.0
+Reduction of Area (RA, %): 77.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,400.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 328.0
+Cyclic Strength Coefficient (N/mm²): 1015.0
+Cyclic Strain Hardening Exponent: 0.182","Transition Life (Number of Cycles): 7858
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.076
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.508
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 1143.0
+Fatigue Strength Exponent: -0.133
+Fatigue Ductility Coefficient: 2.0179
+Fatigue Ductility Exponent: -0.736",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=23&ChartDirectorChartImage=chart_cycChart&cacheId=e0570382515c48c5a937e3bf51c6e1b2&cacheDefeat=638681461011794967,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=23&ChartDirectorChartImage=chart_fatChart&cacheId=bbee2f0d138441ce9e82fb5dc043c4db&cacheDefeat=638681461011794967
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 400.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: in rolling direction ; gauge length: 50 mm
+Strain Rate:  40 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 193000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 197.0
+Ultimate Tensile Strength (N/mm²): 441.0
+Elongation (A5, %): 33.0
+Reduction of Area (RA, %): 78.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,400.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 282.0
+Cyclic Strength Coefficient (N/mm²): 872.0
+Cyclic Strain Hardening Exponent: 0.182","Transition Life (Number of Cycles): 6740
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.068
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.247
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 1136.0
+Fatigue Strength Exponent: -0.155
+Fatigue Ductility Coefficient: 3.6469
+Fatigue Ductility Exponent: -0.831",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=22&ChartDirectorChartImage=chart_cycChart&cacheId=14520108a4c24332877cac87df00b61a&cacheDefeat=638681461016928166,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=22&ChartDirectorChartImage=chart_fatChart&cacheId=6ae2aba87ea6412588034ff22fb1d0ce&cacheDefeat=638681461017084175
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 300.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: transversal to rolling direction ; gauge length: 50 mm
+Strain Rate:  40 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 198000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 200.0
+Ultimate Tensile Strength (N/mm²): 511.0
+Elongation (A5, %): 22.0
+Reduction of Area (RA, %): 51.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,300.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 421.0
+Cyclic Strength Coefficient (N/mm²): 884.0
+Cyclic Strain Hardening Exponent: 0.119","Transition Life (Number of Cycles): 4844
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.064
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.036
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 1034.0
+Fatigue Strength Exponent: -0.097
+Fatigue Ductility Coefficient: 3.6699
+Fatigue Ductility Exponent: -0.811",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=21&ChartDirectorChartImage=chart_cycChart&cacheId=7e9f83d10f5648d9b8872ee710e08ac9&cacheDefeat=638681461022220474,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=21&ChartDirectorChartImage=chart_fatChart&cacheId=5d385567d3984802bff90e65880bf73a&cacheDefeat=638681461022220474
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 300.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: in rolling direction ; gauge length: 50 mm
+Strain Rate:  40 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 197000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 208.0
+Ultimate Tensile Strength (N/mm²): 520.0
+Elongation (A5, %): 23.0
+Reduction of Area (RA, %): 57.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,300.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 421.0
+Cyclic Strength Coefficient (N/mm²): 830.0
+Cyclic Strain Hardening Exponent: 0.109","Transition Life (Number of Cycles): 6331
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.064
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.389
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 809.0
+Fatigue Strength Exponent: -0.068
+Fatigue Ductility Coefficient: 0.753
+Fatigue Ductility Exponent: -0.62",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=19&ChartDirectorChartImage=chart_cycChart&cacheId=e773619699c2439e9b298bc715fe2970&cacheDefeat=638681461027457027,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=19&ChartDirectorChartImage=chart_fatChart&cacheId=a65657c4f25d469cabe19a379fb3ea40&cacheDefeat=638681461027457027
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 300.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: in rolling direction ; gauge length: 50 mm
+Strain Rate:  0,4 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 197000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 213.0
+Ultimate Tensile Strength (N/mm²): 548.0
+Elongation (A5, %): 30.0
+Reduction of Area (RA, %): 65.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,300.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 403.0
+Cyclic Strength Coefficient (N/mm²): 949.0
+Cyclic Strain Hardening Exponent: 0.138","Transition Life (Number of Cycles): 4936
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.03
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.235
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 987.0
+Fatigue Strength Exponent: -0.097
+Fatigue Ductility Coefficient: 1.27
+Fatigue Ductility Exponent: -0.699",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=18&ChartDirectorChartImage=chart_cycChart&cacheId=021eb40894734a0a8be93dce60b7ee57&cacheDefeat=638681461032664544,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=18&ChartDirectorChartImage=chart_fatChart&cacheId=259fb3240e7348cdb3d742a5d9a3473c&cacheDefeat=638681461032684545
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 400.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: transversal to rolling direction ; gauge length: 50 mm
+Strain Rate:  40 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 196000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 181.0
+Ultimate Tensile Strength (N/mm²): 453.0
+Elongation (A5, %): 31.0
+Reduction of Area (RA, %): 66.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,400.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 340.0
+Cyclic Strength Coefficient (N/mm²): 934.0
+Cyclic Strain Hardening Exponent: 0.162","Transition Life (Number of Cycles): 7440
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.104
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.669
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 964.0
+Fatigue Strength Exponent: -0.111
+Fatigue Ductility Coefficient: 1.35
+Fatigue Ductility Exponent: -0.695",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=25&ChartDirectorChartImage=chart_cycChart&cacheId=f3ac270b13c04b62a1680e95d3be1943&cacheDefeat=638681461038269635,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=25&ChartDirectorChartImage=chart_fatChart&cacheId=51de2c85e0e1466b86b7583d9ac4a964&cacheDefeat=638681461038269635
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: transversal to rolling direction ; gauge length: 50 mm
+Strain Rate:  0,3 and 7,5 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 210000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 312.0
+Ultimate Tensile Strength (N/mm²): 499.0
+Elongation (A5, %): 30.0
+Reduction of Area (RA, %): 55.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 290.0
+Cyclic Strength Coefficient (N/mm²): 1122.0
+Cyclic Strain Hardening Exponent: 0.218","Transition Life (Number of Cycles): 63778
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.054
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.117
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 817.0
+Fatigue Strength Exponent: -0.097
+Fatigue Ductility Coefficient: 0.236
+Fatigue Ductility Exponent: -0.446",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=16&ChartDirectorChartImage=chart_cycChart&cacheId=4a52a60df3934fa2bd3fbda039f393c0&cacheDefeat=638681461043086209,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=16&ChartDirectorChartImage=chart_fatChart&cacheId=15dd7daf40f248c590963cda3184d3a4&cacheDefeat=638681461043086209
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: transversal to rolling direction ; gauge length: 50 mm
+Strain Rate:  0,3 and 7,5 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 210000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 312.0
+Ultimate Tensile Strength (N/mm²): 499.0
+Elongation (A5, %): 30.0
+Reduction of Area (RA, %): 55.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 294.0
+Cyclic Strength Coefficient (N/mm²): 1199.0
+Cyclic Strain Hardening Exponent: 0.226","Transition Life (Number of Cycles): 38566
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.018
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.02
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 1117.0
+Fatigue Strength Exponent: -0.128
+Fatigue Ductility Coefficient: 0.728
+Fatigue Ductility Exponent: -0.565",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=17&ChartDirectorChartImage=chart_cycChart&cacheId=28787bbf927341e79ebd458ae2481dc1&cacheDefeat=638681461048550188,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=17&ChartDirectorChartImage=chart_fatChart&cacheId=0aa3deea16d045df8026af1f1f589686&cacheDefeat=638681461048550188
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: in rolling direction ; gauge length: 50 mm
+Strain Rate:  0,3 and 7,5 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 210000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 310.0
+Ultimate Tensile Strength (N/mm²): 500.0
+Elongation (A5, %): 30.0
+Reduction of Area (RA, %): 64.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 295.0
+Cyclic Strength Coefficient (N/mm²): 1204.0
+Cyclic Strain Hardening Exponent: 0.226","Transition Life (Number of Cycles): 45000
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.092
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.187
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 1074.0
+Fatigue Strength Exponent: -0.122
+Fatigue Ductility Coefficient: 0.63
+Fatigue Ductility Exponent: -0.544",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=15&ChartDirectorChartImage=chart_cycChart&cacheId=96a60c300ea0491cb1a65618ea072995&cacheDefeat=638681461050581800,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=15&ChartDirectorChartImage=chart_fatChart&cacheId=4d17e299644f4857a23974ad5f85dc03&cacheDefeat=638681461050581800
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14,"DIN: St 46
+W.Nr. (DIN 17007): 
+EN: 
+AISI: 
+AFNOR: 
+ASTM: 
+BS: 
+GOST: 
+HRN: 
+ISO: 
+JIS: SB 46
+JUS: 
+SAE: 
+SS: 
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Yoshida S, Kanazawa K, Yamaguchi K, Kobayashi K, Sato M, Suzuki N, Shiohara M. Elevated-Temperature Fatigue Properties of Engineering Materials Part III. T Natl Res I Met, Tokyo 1978.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: ",N/A,"Source: plate 3000x1200x20 mm
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: cylindrical, diameter 10 mm ; location/orientation: in rolling direction ; gauge length: 50 mm
+Strain Rate:  0,3 and 7,5 %/min ; Young´s modulus estimated
+Additional Remarks: testing machine: NA","Young's Modulus (N/mm²): 210000.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 310.0
+Ultimate Tensile Strength (N/mm²): 500.0
+Elongation (A5, %): 30.0
+Reduction of Area (RA, %): 64.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 289.0
+Cyclic Strength Coefficient (N/mm²): 1118.0
+Cyclic Strain Hardening Exponent: 0.218","Transition Life (Number of Cycles): 43369
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.096
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.155
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 1000.0
+Fatigue Strength Exponent: -0.118
+Fatigue Ductility Coefficient: 0.619
+Fatigue Ductility Exponent: -0.546",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=14&ChartDirectorChartImage=chart_cycChart&cacheId=eca82614d14b4192adc76791acc6bfa8&cacheDefeat=638681461054835099,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=14&ChartDirectorChartImage=chart_fatChart&cacheId=04164eef60b4418ba7838417fac1f8b2&cacheDefeat=638681461054835099
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13,"DIN: St 44-2
+W.Nr. (DIN 17007): 1.0044
+EN: 
+AISI: D ; GRADE 42
+AFNOR: E28-2
+ASTM: Grade D
+BS: 43/25HR ; 43B ; HS
+GOST: SP ; ST4PS
+HRN: 
+ISO: Fe430-B ; HR275-B
+JIS: SM 400 B
+JUS: Č0451
+SAE: 
+SS: 1412 ; 1412-00
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Nowack H, Trautmann KH. Non published information.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: Constructional sheet welded assemblies, cold formed structural parts, screws, rivets...",N/A,"Source: plate
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: 
+Strain Rate: 
+Additional Remarks: ","Young's Modulus (N/mm²): 202560.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 0.0
+Ultimate Tensile Strength (N/mm²): 0.0
+Elongation (A5, %): 0.0
+Reduction of Area (RA, %): 0.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 205.0
+Cyclic Strength Coefficient (N/mm²): 406.0
+Cyclic Strain Hardening Exponent: 0.11","Transition Life (Number of Cycles): 46916
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.081
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.935
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 514.0
+Fatigue Strength Exponent: -0.087
+Fatigue Ductility Coefficient: 5.9829
+Fatigue Ductility Exponent: -0.766",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=13&ChartDirectorChartImage=chart_cycChart&cacheId=39269a36151e4e71a442e2434592e3d2&cacheDefeat=638681461060497230,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=13&ChartDirectorChartImage=chart_fatChart&cacheId=f43faf7f89384b31bbfe950e310aa560&cacheDefeat=638681461060497230
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12,"DIN: St 44-2
+W.Nr. (DIN 17007): 1.0044
+EN: 
+AISI: D ; GRADE 42
+AFNOR: E28-2
+ASTM: Grade D
+BS: 43/25HR ; 43B ; HS
+GOST: SP ; ST4PS
+HRN: 
+ISO: Fe430-B ; HR275-B
+JIS: SM 400 B
+JUS: Č0451
+SAE: 
+SS: 1412 ; 1412-00
+UNS: 
+Other & Commercial: ","Contributed by: MATDAT
+Entry Date: 01.06.2011
+Source Reference: Boller C, Seeger T. Materials data for cyclic loading, Part A. Amsterdam: Elsevier; 1987.
+Other References: Nowack H, Trautmann KH. Non published information.
+Material Group: Unalloyed steel
+Steel Subgroup: 
+Typical Application: Constructional sheet welded assemblies, cold formed structural parts, screws, rivets...",N/A,"Source: plate
+Dimensions (mm): ","Heat Treatment Type: as received
+Additional Remarks: ","Microstructure Information: 
+Additional Remarks: ","Hardness Value (Brinell): 
+Hardness Value (Vickers): 
+Hardness Value (Rockwell): ","Testing Temperature (°C): 23.0
+Testing Medium: air
+Loading Type: axial
+Loading Control: 
+Specimen Information: 
+Strain Rate: 
+Additional Remarks: ","Young's Modulus (N/mm²): 204400.0
+Poisson's Ratio: 0.0
+Yield Strength (N/mm²): 0.0
+Ultimate Tensile Strength (N/mm²): 0.0
+Elongation (A5, %): 0.0
+Reduction of Area (RA, %): 0.0
+True Fracture Stress (N/mm²): 0.0
+True Fracture Strain: 0.0","Strength Coefficient (N/mm²): 0.0
+Strain Hardening Exponent: 0.0",,23.0,0.0,0.0,0.0,0.0,-1.0,"Cyclic Yield Strength (N/mm²): 212.0
+Cyclic Strength Coefficient (N/mm²): 497.0
+Cyclic Strain Hardening Exponent: 0.137","Transition Life (Number of Cycles): 46283
+Endurance/Fatigue Limit Cycles (NE): 
+Stress Amplitude at NE (N/mm²): 0.0
+Strain Amplitude at NE: 0.0
+Scatter Band of Stress Amplitudes (σa,10% / σa,90%): 1.028
+Scatter Band of Plastic Strain Amplitudes (εa,p,10% / εa,p,90%): 1.713
+Exponent of S-N Curve: 0.0","Fatigue Strength Coefficient (N/mm²): 499.0
+Fatigue Strength Exponent: -0.083
+Fatigue Ductility Coefficient: 0.75
+Fatigue Ductility Exponent: -0.584",https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=12&ChartDirectorChartImage=chart_cycChart&cacheId=bcaae3705f31475eb9b23112fd9d2832&cacheDefeat=638681461062274231,https://www.matdat.com/Dashboard/DetailReport.aspx?idMat=12&ChartDirectorChartImage=chart_fatChart&cacheId=1c59d577cda94e58a5ada7febc3020d8&cacheDefeat=638681461062274231

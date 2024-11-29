@@ -1,0 +1,156 @@
+[INIT] Script started at 09-11-2024 21:16:44
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_1.png
+Reached 'View Less' button. Stopping screenshots.
+Error: Timeout while locating the rich media wrapper or 'View Less' button: Message: 
+
+Screenshot of 'View More' button saved as view_more_button_screenshot.png
+Error: An unexpected error occurred in capture_full_rich_content: Message: javascript error: {"status":60,"value":"[object HTMLButtonElement] has no size and location"}
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00ACEBD3+24307]
+	(No symbol) [0x00A58D74]
+	(No symbol) [0x0093C323]
+	(No symbol) [0x00941DA0]
+	(No symbol) [0x00943628]
+	(No symbol) [0x009436A0]
+	(No symbol) [0x0098327E]
+	(No symbol) [0x00982835]
+	(No symbol) [0x009C19A0]
+	(No symbol) [0x0099FE8C]
+	(No symbol) [0x009B9579]
+	(No symbol) [0x0099FC26]
+	(No symbol) [0x0097219C]
+	(No symbol) [0x0097311D]
+	GetHandleVerifier [0x00D78D93+2818227]
+	GetHandleVerifier [0x00DD542E+3196750]
+	GetHandleVerifier [0x00DCD9D2+3165426]
+	GetHandleVerifier [0x00B6DA70+675216]
+	(No symbol) [0x00A61B3D]
+	(No symbol) [0x00A5EA18]
+	(No symbol) [0x00A5EBB5]
+	(No symbol) [0x00A51640]
+	BaseThreadInitThunk [0x76187BA9+25]
+	RtlInitializeExceptionChain [0x76EFC10B+107]
+	RtlClearBits [0x76EFC08F+191]
+
+Error: An unexpected error occurred in capture_full_rich_content: Message: element click intercepted: Element <button class="btn cta-primary-btn view-more-content" data-datalayer-config="{&quot;destination&quot;:{&quot;path&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;},&quot;locatorComponent&quot;:{&quot;path&quot;:&quot;&quot;,&quot;position&quot;:0,&quot;section&quot;:&quot;&quot;},&quot;name&quot;:&quot;View More&quot;,&quot;text&quot;:&quot;View More&quot;,&quot;type&quot;:&quot;button&quot;,&quot;variant&quot;:{&quot;experience&quot;:&quot;desktop&quot;,&quot;name&quot;:&quot;&quot;}}" style="z-index: 1;">...</button> is not clickable at point (347, 679). Other element would receive the click: <span class="add-to-basket-text">...</span>
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00ACEBD3+24307]
+	(No symbol) [0x00A58D74]
+	(No symbol) [0x0093C323]
+	(No symbol) [0x00983B07]
+	(No symbol) [0x00981F79]
+	(No symbol) [0x0097FE64]
+	(No symbol) [0x0097F45E]
+	(No symbol) [0x0097415D]
+	(No symbol) [0x0099FE8C]
+	(No symbol) [0x00973C14]
+	(No symbol) [0x009A0124]
+	(No symbol) [0x009B9579]
+	(No symbol) [0x0099FC26]
+	(No symbol) [0x0097219C]
+	(No symbol) [0x0097311D]
+	GetHandleVerifier [0x00D78D93+2818227]
+	GetHandleVerifier [0x00DD542E+3196750]
+	GetHandleVerifier [0x00DCD9D2+3165426]
+	GetHandleVerifier [0x00B6DA70+675216]
+	(No symbol) [0x00A61B3D]
+	(No symbol) [0x00A5EA18]
+	(No symbol) [0x00A5EBB5]
+	(No symbol) [0x00A51640]
+	BaseThreadInitThunk [0x76187BA9+25]
+	RtlInitializeExceptionChain [0x76EFC10B+107]
+	RtlClearBits [0x76EFC08F+191]
+
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_1.png
+No more content to load. Stopping screenshots.
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_1.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_2.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_3.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_4.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_5.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_6.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_7.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_8.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_9.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_10.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_11.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_12.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_13.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_14.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_15.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_16.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_17.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_18.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_19.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_20.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_21.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_22.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_23.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_24.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_25.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_26.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_27.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_28.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_29.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_30.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_31.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_32.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_33.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_34.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_35.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_36.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_37.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_38.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_39.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_40.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_41.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_42.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_43.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_44.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_45.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_46.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_47.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_48.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_49.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_50.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_51.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_52.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_53.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_54.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_55.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_56.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_57.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_58.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_59.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_60.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_61.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_62.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_63.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_64.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_65.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_66.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_67.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_68.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_69.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_70.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_71.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_72.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_73.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_74.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_75.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_76.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_77.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_78.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_79.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_80.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_81.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_82.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_83.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_84.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_85.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_86.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_87.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_88.png
+Screenshot saved as Buy LENOVO Legion 5 16_ Gaming Laptop - Intel_ Core_ i9_ RTX 4060_ 1 TB SSD _ Currys_89.png

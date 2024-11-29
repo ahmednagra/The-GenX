@@ -1,0 +1,17 @@
+[INIT] Script started at 06-11-2024 00:12:04
+Section :Old Testament Is called for Category Scraping
+Category: 30 Sections Found
+Successfully wrote to file: output\spokengospel_Genesis 39-41_text.txt
+Successfully wrote to file: output\spokengospel_Zephaniah 24-38_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 3_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 12-14_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 24-25_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 21-23_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 18-20_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 3-5_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 14-17_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 11_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 1-2_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 4_text.txt
+Successfully wrote to file: output\spokengospel_1 Kings 1_text.txt
+Successfully wrote to file: output\spokengospel_2 Kings 87-1035_text.txt

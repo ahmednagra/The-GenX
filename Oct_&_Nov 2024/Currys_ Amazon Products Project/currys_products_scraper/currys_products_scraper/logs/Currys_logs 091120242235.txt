@@ -1,0 +1,4 @@
+[INIT] Script started at 09-11-2024 22:35:00
+https://www.currys.co.uk/products/lenovo-legion-5-16-gaming-laptop-intel-core-i9-rtx-4060-1-tb-ssd-10263457.html Error: A TimeoutException occurred: Message: 
+
+https://www.currys.co.uk/products/lenovo-legion-5-16-gaming-laptop-intel-core-i9-rtx-4060-1-tb-ssd-10263457.html Error: The page or one of the elements took too long to load.

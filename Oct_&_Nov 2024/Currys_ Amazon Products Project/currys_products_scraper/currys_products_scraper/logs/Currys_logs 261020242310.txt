@@ -1,0 +1,6 @@
+[INIT] Script started at 26-10-2024 23:10:56
+ScrapeApi key not exist in input file. Scraper Closed
+0 Total Products Are Scrapped 
+0 Total Duplicate Products found and skipped
+Script started at 26-10-2024 23:10:56
+Script Stopped at 26-10-2024 23:10:59

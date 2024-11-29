@@ -1,0 +1,5 @@
+[INIT] Script started at 27-11-2024 19:34:54
+login Successfully : 27-11-2024 19:34:59
+Groups are Found: [('Unalloyed steel', 'matUnalloyed steel'), ('Low-alloy steel', 'matLow-alloy steel'), ('High-alloy steel', 'matHigh-alloy steel'), ('Cast', 'matCast'), ('Weld', 'matWeld'), ('Aluminium alloy', 'matAluminium alloy'), ('Titanium alloy', 'matTitanium alloy'), ('Other', 'matOther')]
+Group Started:Unalloyed steel
+Total Materials Found 321, Group:Unalloyed steel

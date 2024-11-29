@@ -1,0 +1,2 @@
+[INIT] Script started at 22-11-2024 23:34:51
+[POST_TO_API] Successfully uploaded data for product ID B0D7MMNPVP. Response: {'message': 'Data successfully stored'}

@@ -1,0 +1,35 @@
+[INIT] Script started at 22-11-2024 23:05:57
+[START_REQUESTS] Number of search keywords: 37
+Keyword:Laptops for Kids Not Found the search Update Url value, Keyword scraping skipped.
+Keyword:Laptops for students Not Found the search Update Url value, Keyword scraping skipped.
+Keyword:Apple Not Found the search Update Url value, Keyword scraping skipped.
+Keyword: Windows Laptops Total "314 items" are found
+
+Keyword: Kids Tablets Total "28 items" are found
+
+Keyword: Tablets Total "308 items" are found
+
+Keyword: 2 in 1 Laptops Total "80 items" are found
+
+Keyword: Laptop Total "417 items" are found
+
+Keyword: AI Laptops Total "284 items" are found
+
+Keyword: Graphics Tablets Total "28 items" are found
+
+Keyword: Laptops Dell Total "21 items" are found
+
+Keyword: Lenovo Total "171 items" are found
+
+Keyword: Dell Total "42 items" are found
+
+Keyword: Laptops HP Total "143 items" are found
+
+Keyword: Laptops Lenovo Total "105 items" are found
+
+Keyword: MacBook Total "69 items" are found
+
+Keyword: Asus Total "311 items" are found
+
+Keyword: HP Total "503 items" are found
+

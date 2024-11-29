@@ -1,0 +1,4 @@
+[INIT] Script started at 27-11-2024 19:49:33
+[START_REQUESTS] Number of search keywords: 37
+Keyword: Laptop Total "419 items" are found
+

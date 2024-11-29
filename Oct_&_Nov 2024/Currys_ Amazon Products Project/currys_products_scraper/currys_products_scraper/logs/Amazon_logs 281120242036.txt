@@ -1,0 +1,7 @@
+[INIT] Script started at 28-11-2024 20:36:51
+[POST_TO_API] Successfully uploaded data for product ID B086X52GJ1. Response: {'message': 'Data successfully stored'}
+[CHECK_OR_CREATE_CATEGORY] Failed to create category: demo. Status Code: 200, Response: {"message":"Category successfully created"}
+[POST_TO_API] Failed to resolve category for product ID B0CJCDTNM2.
+[POST_TO_API] Successfully uploaded data for product ID B0733CKYSS. Response: {'message': 'Data successfully stored'}
+[CHECK_OR_CREATE_CATEGORY] Failed to create category: demo5454545454545. Status Code: 200, Response: {"message":"Category successfully created"}
+[POST_TO_API] Failed to resolve category for product ID B003KVPEU2.

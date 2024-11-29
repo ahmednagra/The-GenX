@@ -1,0 +1,6 @@
+[INIT] Script started at 16-11-2024 00:50:37
+Error PArsing item :https://www.amazon.co.uk/Lenovo-ThinkPad-Touchscreen-i5-10310U-Keyboard/dp/B0D6R7GVFC/ref=zg_bs_g_30117755031_d_sccl_26/261-8107939-8709453?psc=1 and error: sequence item 0: expected str instance, NoneType found
+91 Total Products Are Scrapped 
+0 Total Duplicate Products found and skipped
+Script started at 16-11-2024 00:50:37
+Script Stopped at 16-11-2024 00:54:01

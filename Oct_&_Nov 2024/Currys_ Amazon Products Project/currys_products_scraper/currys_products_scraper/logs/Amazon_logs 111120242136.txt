@@ -1,0 +1,2 @@
+[INIT] Script started at 11-11-2024 21:36:16
+[START_REQUESTS] Number of search keywords: 37

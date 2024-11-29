@@ -1,0 +1,29 @@
+{
+    "retailer_id": "A3P5ROKL5A1OLE",
+    "retailer_name": "Amazon",
+    "retailer_country": "UK",
+    "retailer_website": null,
+    "product_id": "B0CPPTNL8D",
+    "product_title": "ASUS Chromebook 14 CX1400CKA Full HD Chromebook (Intel Celeron N4500, 4GB RAM, 64GB eMMC, Google Chrome OS)",
+    "product_description": "ASUS Chromebook CX1 is made for boosting productivity and having more fun while on the move — all day, every day. 14 inch Full HD display, 4GB RAM + 64GB eMMC for ample storage, Google Assistant voice-recognition support, Operating System is Google Chrome OS",
+    "promotion_type": "Christmas mode: activated",
+    "promotion_price": 133.2,
+    "promotion_discount": 96.79,
+    "promotion_start_date": null,
+    "promotion_expiry": null,
+    "promotion_badge_type": null,
+    "rich_content_displayed": false,
+    "brand_logo_url": "https://example.com/coca-cola.png",
+    "retailer_logo_url": "https://example.com/coca-cola.png",
+    "rich_content_images": [
+        "https://m.media-amazon.com/images/I/61kEoN1bBPL.AC_SL1000.jpg",
+        "https://m.media-amazon.com/images/I/51oBKeDHfmL.AC_SL1000.jpg",
+        "https://m.media-amazon.com/images/I/51W9OG-v3YL.AC_SL1000.jpg",
+        "https://m.media-amazon.com/images/I/419YpJmotrL.AC_SL1000.jpg",
+        "https://m.media-amazon.com/images/I/510+A+LUEIL.AC_SL1000.jpg",
+        "https://m.media-amazon.com/images/I/41BWnc-eONL.AC_SL1000.jpg",
+        "https://m.media-amazon.com/images/I/51cImWZQ7IL.AC_SL1000.jpg",
+        "https://m.media-amazon.com/images/I/31EiH61zAuL.AC_SL1000.jpg"
+    ],
+    "timestamp": "2024-10-17 11:22:56"
+}

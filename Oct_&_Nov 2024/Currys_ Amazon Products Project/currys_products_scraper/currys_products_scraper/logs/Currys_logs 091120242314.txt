@@ -1,0 +1,31 @@
+[INIT] Script started at 09-11-2024 23:14:29
+Error occurred in get_rich_content: Message: element click intercepted: Element <button class="btn cta-primary-btn view-more-content" data-datalayer-config="{&quot;destination&quot;:{&quot;path&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;},&quot;locatorComponent&quot;:{&quot;path&quot;:&quot;&quot;,&quot;position&quot;:0,&quot;section&quot;:&quot;&quot;},&quot;name&quot;:&quot;View More&quot;,&quot;text&quot;:&quot;View More&quot;,&quot;type&quot;:&quot;button&quot;,&quot;variant&quot;:{&quot;experience&quot;:&quot;desktop&quot;,&quot;name&quot;:&quot;&quot;}}">...</button> is not clickable at point (509, 627). Other element would receive the click: <div class="card-body">...</div>
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00ACEBD3+24307]
+	(No symbol) [0x00A58D74]
+	(No symbol) [0x0093C323]
+	(No symbol) [0x00983B07]
+	(No symbol) [0x00981F79]
+	(No symbol) [0x0097FE64]
+	(No symbol) [0x0097F45E]
+	(No symbol) [0x0097415D]
+	(No symbol) [0x0099FE8C]
+	(No symbol) [0x00973C14]
+	(No symbol) [0x009A0124]
+	(No symbol) [0x009B9579]
+	(No symbol) [0x0099FC26]
+	(No symbol) [0x0097219C]
+	(No symbol) [0x0097311D]
+	GetHandleVerifier [0x00D78D93+2818227]
+	GetHandleVerifier [0x00DD542E+3196750]
+	GetHandleVerifier [0x00DCD9D2+3165426]
+	GetHandleVerifier [0x00B6DA70+675216]
+	(No symbol) [0x00A61B3D]
+	(No symbol) [0x00A5EA18]
+	(No symbol) [0x00A5EBB5]
+	(No symbol) [0x00A51640]
+	BaseThreadInitThunk [0x76187BA9+25]
+	RtlInitializeExceptionChain [0x76EFC10B+107]
+	RtlClearBits [0x76EFC08F+191]
+

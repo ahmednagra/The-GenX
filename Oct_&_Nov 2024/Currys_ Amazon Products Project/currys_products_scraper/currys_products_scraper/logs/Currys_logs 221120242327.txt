@@ -1,0 +1,11 @@
+[INIT] Script started at 22-11-2024 23:27:19
+[START_REQUESTS] Number of search keywords: 37
+Keyword: Laptop Total "417 items" are found
+
+[POST_TO_API] Successfully uploaded data for product ID 10264183. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID 10270679. Response: {'message': 'Data successfully stored'}
+Spider Started at:22-11-2024 23:27:19
+Total Duplicate Items Found:22-11-2024 23:28:26
+Total Items Found:50
+Total Items Scraped:2
+Total Duplicate Items Found:0

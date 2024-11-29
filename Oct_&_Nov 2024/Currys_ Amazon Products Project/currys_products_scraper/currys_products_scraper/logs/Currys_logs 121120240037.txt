@@ -1,0 +1,93 @@
+[INIT] Script started at 12-11-2024 00:37:54
+[START_REQUESTS] Number of search keywords: 37
+Keyword: Windows Laptops Total "306 items" are found
+
+Keyword: Laptop Total "439 items" are found
+
+Keyword: 2 in 1 Laptops Total "73 items" are found
+
+Keyword: MacBook Total "97 items" are found
+
+Keyword: AI Laptops Total "266 items" are found
+
+Keyword: Tablets Total "308 items" are found
+
+Keyword: Kids Tablets Total "28 items" are found
+
+Keyword: Graphics Tablets Total "28 items" are found
+
+Keyword:Laptops for Kids Not Found the search Update Url value, Keyword scraping skipped.
+Keyword:Laptops for students Not Found the search Update Url value, Keyword scraping skipped.
+Keyword: Laptops HP Total "131 items" are found
+
+Keyword: Laptops Windows Total "1,218 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-slim-6-14-laptop-intel-core-i5-512-gb-ssd-storm-grey-10263573.html 
+
+Keyword: Laptops Dell Total "21 items" are found
+
+Keyword: Laptops Lenovo Total "105 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-slim-6-14-laptop-intel-core-i5-512-gb-ssd-storm-grey-10263573.html 
+
+Keyword: Dell Total "42 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/dell-ecoloop-pro-sleeve-14-laptop-messenger-bag-black-10261601.html 
+
+Keyword: HP Total "488 items" are found
+
+Keyword:Apple Not Found the search Update Url value, Keyword scraping skipped.
+Keyword: Lenovo Total "170 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-slim-6-14-laptop-intel-core-i5-512-gb-ssd-storm-grey-10263573.html 
+
+Keyword: Asus Total "309 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-cx1-14-chromebook-intel-celeron-64-gb-emmc-silver-10261103.html 
+
+Keyword: Intel Total "676 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-cx1-14-chromebook-intel-celeron-64-gb-emmc-silver-10261103.html 
+
+Keyword: AMD Total "239 items" are found
+
+Keyword: Chrome Total "273 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-cx1-14-chromebook-intel-celeron-64-gb-emmc-silver-10261103.html 
+
+Keyword: Samsung Total "878 items" are found
+
+Keyword: Microsoft Total "285 items" are found
+
+Keyword: Surface Total "305 items" are found
+
+Keyword: Google Total "679 items" are found
+
+Keyword:Tablet 12 inch Not Found the search Update Url value, Keyword scraping skipped.
+Keyword:Tablet 10 inch Not Found the search Update Url value, Keyword scraping skipped.
+Keyword: Tablet Total "308 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/amazon-fire-hd-pro-8-kids-ages-612-tablet-2024-32-gb-hello-teal-10271442.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/samsung-galaxy-tab-a9-11-tablet-64-gb-silver-10259177.html 
+
+Keyword: Android tablets Total "111 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/samsung-galaxy-tab-a9-11-tablet-64-gb-silver-10259177.html 
+
+Keyword: iPad Total "173 items" are found
+
+Keyword: iPad Air Total "64 items" are found
+
+Keyword: iPad Mini Total "32 items" are found
+
+Keyword: iPad Pro Total "48 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-13-ipad-pro-cellular-2024-2-tb-silver-10264717.html 
+
+Keyword: Desktop Total "106 items" are found
+
+Keyword: Desktop Computer Total "106 items" are found
+
+Keyword: Desktop PC Total "6,016 items" are found
+

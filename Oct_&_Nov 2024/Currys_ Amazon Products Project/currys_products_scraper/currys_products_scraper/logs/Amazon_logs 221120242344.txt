@@ -1,0 +1,16 @@
+[INIT] Script started at 22-11-2024 23:44:27
+[POST_TO_API] Successfully uploaded data for product ID B0CZXRYVPR. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0C9M2MMZJ. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0D7Z9WLLK. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0DFQ4FD35. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0CLSCW6Z5. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0CW1N5WP5. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0CLS9YH1Q. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0D7MMNPVP. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0D33HYLMD. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0CJ9QLLWL. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0D33HRJ9W. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0D1K7TDV6. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0C9LZFN32. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B09TKKNQHV. Response: {'message': 'Data successfully stored'}
+[POST_TO_API] Successfully uploaded data for product ID B0CLLSFXR3. Response: {'message': 'Data successfully stored'}

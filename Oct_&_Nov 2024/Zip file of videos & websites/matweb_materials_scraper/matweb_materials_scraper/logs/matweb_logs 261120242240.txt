@@ -1,0 +1,14 @@
+[INIT] Script started at 26-11-2024 22:41:23
+[INIT] Script started at 26-11-2024 22:41:23
+
+
+ Category:polymer now start scraping
+
+
+ Category:metal now start scraping
+
+
+ Category:ceramic now start scraping
+
+
+ Category:carbon now start scraping

@@ -1,0 +1,113 @@
+[INIT] Script started at 20-11-2024 19:03:33
+[START_REQUESTS] Number of search keywords: 37
+Keyword:Laptops for Kids Not Found the search Update Url value, Keyword scraping skipped.
+Keyword:Laptops for students Not Found the search Update Url value, Keyword scraping skipped.
+Keyword: Laptop Total "419 items" are found
+
+Keyword: Windows Laptops Total "316 items" are found
+
+Keyword: Tablets Total "307 items" are found
+
+Keyword: Kids Tablets Total "28 items" are found
+
+Keyword: MacBook Total "70 items" are found
+
+Keyword: Graphics Tablets Total "28 items" are found
+
+Keyword: 2 in 1 Laptops Total "79 items" are found
+
+Keyword:Apple Not Found the search Update Url value, Keyword scraping skipped.
+Keyword: Laptops Dell Total "21 items" are found
+
+Keyword: Dell Total "42 items" are found
+
+Keyword: Laptops Lenovo Total "101 items" are found
+
+Keyword: Laptops HP Total "135 items" are found
+
+Keyword: Laptops Windows Total "1,202 items" are found
+
+Keyword: AI Laptops Total "269 items" are found
+
+Keyword: Lenovo Total "167 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-yoga-slim-7x-14-laptop-copilot-pc-snapdragon-x-elite-1-tb-ssd-cosmic-blue-10263568.html 
+
+Keyword: Intel Total "693 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/asus-vivobook-15-x1504va-15.6-laptop-intel-core-i7-1-tb-ssd-silver-10265772.html 
+
+Keyword: Asus Total "311 items" are found
+
+Keyword: HP Total "495 items" are found
+
+Keyword:Tablet 12 inch Not Found the search Update Url value, Keyword scraping skipped.
+Keyword:Tablet 10 inch Not Found the search Update Url value, Keyword scraping skipped.
+Keyword: AMD Total "246 items" are found
+
+Keyword: Chrome Total "216 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-ideapad-duet-5-13.3-2-in-1-chromebook-snapdragon-7c-gen-2-256-gb-emmc-blue-10231482.html 
+
+Keyword: Tablet Total "307 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-10.9-ipad-64-gb-blue-10272768.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/samsung-galaxy-tab-s9-fe-10.9-tablet-128-gb-grey-10256786.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/acer-actab1024-10.1-tablet-32-gb-gun-grey-10250422.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-13-ipad-pro-2024-512-gb-silver-10264705.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/amazon-fire-hd-8-kids-ages-37-tablet-2024-32-gb-blue-10271373.html 
+
+Keyword: Surface Total "324 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/microsoft-13.8-surface-laptop-copilot-pc-snapdragon-x-elite-512-gb-ssd-black-10263697.html 
+
+Keyword: Samsung Total "881 items" are found
+
+Keyword: iPad Total "167 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-10.9-ipad-64-gb-blue-10272768.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-13-ipad-pro-2024-512-gb-silver-10264705.html 
+
+Keyword: Google Total "684 items" are found
+
+Keyword: iPad Mini Total "32 items" are found
+
+Keyword: Microsoft Total "293 items" are found
+
+Keyword: Desktop Total "108 items" are found
+
+Keyword: iPad Pro Total "48 items" are found
+
+Keyword: iPad Air Total "64 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/apple-11-ipad-air-cellular-2024-1-tb-starlight-10261911.html 
+
+Keyword: Desktop PC Total "6,052 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-ideacentre-3-desktop-pc-intel-core-i5-512-gb-ssd-grey-10264780.html 
+
+Keyword: Android tablets Total "116 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/samsung-galaxy-tab-s9-fe-10.9-tablet-128-gb-grey-10256786.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-tab-p12-12.7-tablet-128-gb-sage-10267413.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/acer-actab1024-10.1-tablet-32-gb-gun-grey-10250422.html 
+
+Keyword: Desktop Computer Total "108 items" are found
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/acer-aspire-c221610-21.5-allinone-pc-intel-core-i3-512-gb-ssd-black-10265173.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/acer-aspire-c241800-23.8-allinone-pc-intel-core-i5-512-gb-ssd-black-10265047.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-ideacentre-aio-3-23.8-allinone-pc-amd-ryzen-7-512-gb-ssd-grey-10264773.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/lenovo-ideacentre-3-desktop-pc-intel-core-i5-512-gb-ssd-grey-10264780.html 
+
+URL already scrapped, Skipped : https://www.currys.co.uk/products/acer-aspire-xc1780-desktop-pc-intel-core-i5-1-tb-ssd-black-10266555.html 
+
