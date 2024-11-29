@@ -1,0 +1,8 @@
+[INIT] Script started at 21-11-2024 21:19:13
+[INIT] Script started at 21-11-2024 21:19:13
+
+
+ Category:polymer now start scraping
+Category: polymer Found Total Materials : 125743
+Title: Sumitomo Bakelite Sumikon® PM-6430 Glass-Filled Phenolic, Injection Grade Url:https://www.matweb.com/search/DataSheet.aspx?MatGUID=c53b719ad7ed410e94ccc91f812643e4 Error writing to the CSV file: [Errno 22] Invalid argument
+Error in item write URL:https://www.matweb.com/search/DataSheet.aspx?MatGUID=c53b719ad7ed410e94ccc91f812643e4 Error:[Errno 22] Invalid argument
