@@ -10,6 +10,24 @@ from .base import BaseSpider
 
 class MatwebSpider(BaseSpider):
     name = "matweb"
+    custom_settings = {
+        "ZYTE_API_EXPERIMENTAL_COOKIES_ENABLED": True,
+        'DOWNLOAD_HANDLERS': {
+            "http": "scrapy_zyte_api.ScrapyZyteAPIDownloadHandler",
+            "https": "scrapy_zyte_api.ScrapyZyteAPIDownloadHandler",
+        },
+        'DOWNLOADER_MIDDLEWARES': {
+            "scrapy_zyte_api.ScrapyZyteAPIDownloaderMiddleware": 1000,
+            "scrapy_poet.InjectionMiddleware": 543,  # Add this line
+
+            # Add Utf8ResponseMiddleware with an appropriate priority
+            'matweb_materials_scraper.middlewares.Utf8ResponseMiddleware': 543,
+        },
+        'REQUEST_FINGERPRINTER_CLASS': "scrapy_zyte_api.ScrapyZyteAPIRequestFingerprinter",
+        'TWISTED_REACTOR': "twisted.internet.asyncioreactor.AsyncioSelectorReactor",
+        'ZYTE_API_KEY': "905eefc5007b4c5b86a06cb416a0061d",
+        "ZYTE_API_TRANSPARENT_MODE": True,
+    }
     start_urls = ['https://www.matweb.com/search/MaterialGroupSearch.aspx']
     headers = {
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
@@ -34,7 +52,8 @@ class MatwebSpider(BaseSpider):
         super().__init__()
         self.page_count = 0
         self.next_page_value = 0
-        self.categories = ['carbon', 'ceramic', 'metal', 'polymer']
+        # self.categories = ['carbon', 'ceramic', 'metal', 'polymer']
+        self.categories = ['polymer']
 
         # Logs
         os.makedirs('logs', exist_ok=True)
@@ -49,24 +68,57 @@ class MatwebSpider(BaseSpider):
         viewstat = response.css('#__VIEWSTATE ::attr("value")').get('')
         viewstat_generator_id = response.css('#__VIEWSTATEGENERATOR ::attr("value")').get('')
         category = response.meta.get('category', '')
-        data = self.get_form_data(category, viewstat, viewstat_generator_id, next_page_value=False)
+        # data = self.get_form_data(category, viewstat, viewstat_generator_id, next_page_value=False)
         print('Category :', category)
-        yield FormRequest(url=self.start_urls[0], formdata=data, callback=self.parse_category_pagination,
+
+        # yield FormRequest(url=self.start_urls[0], formdata=data, callback=self.parse_category_pagination,
+        #                   dont_filter=True, headers=self.headers, meta={'category': category})
+
+        # code for sub categories
+        # Extract values from the href attribute of the first <a> tag
+        table = response.css(f'table[cellpadding="0"]:contains("{category.title()}")')
+        # href_value = response.css('a#ctl00_ContentMain_ucMatGroupTree_msTreeViewn1::attr(href)').get('')
+        href_value = table.css('a::attr(href)').get('')
+
+        # Extract the values needed for __CALLBACKPARAM
+        callback_params = href_value.split(",")[-5:]
+        callback_params = [param.strip("'") for param in callback_params]
+
+        # Construct the __CALLBACKPARAM value
+        __CALLBACKPARAM = "|".join(callback_params)
+        subcategory = "|".join(callback_params)
+
+        data = self.get_form_data(category, viewstat, viewstat_generator_id, next_page_value=False, subcategory=subcategory)
+
+        yield FormRequest(url=self.start_urls[0], formdata=data, callback=self.parse_sub_categories,
                           dont_filter=True, headers=self.headers, meta={'category': category})
+    def parse_sub_categories(self, response):
+        a=1
 
     def parse_category_pagination(self, response):
         category = response.meta.get('category', '')
-
-        if not response.meta.get('next_page', ''):
+        page_no = response.meta.get('next_page', '')
+        # if not response.meta.get('next_page', ''):
+        if not page_no:
             total_products = response.css('#ctl00_ContentMain_UcSearchResults1_lblResultCount ::text').get('')
             self.write_logs(f'Category: {category} Found Total Materials : {total_products}')
 
         materials_urls = response.css('#tblResults a::attr(href)').getall() or []
+        print(f'Category: {category}, Page No: {page_no} Total Urls : {len(materials_urls)}')
 
-        for mat_url in materials_urls:
+        # materials_text = response.css('#tblResults a::text').getall()[1:] or []
+        # materials = zip(materials_text, materials_urls)
+        # materials_list = list(materials)  # Convert zip to a list
+        # # print(materials_list)
+        #
+        # # # Iterate over the materials with name and URL
+        # # for name, mat_url in materials_list[0:20]:
+        # #     print(f"Material Name: {name}")
+        # #     print(f"Material URL: {mat_url}")
+        for mat_url in materials_urls[0:5]:
             url = urljoin('https://www.matweb.com/', mat_url)
-            yield Request(url, callback=self.parse_detail, headers=self.headers,
-                          dont_filter=True, meta=response.meta)
+            # yield Request(url, callback=self.parse_detail, headers=self.headers,
+            #               dont_filter=True, meta=response.meta)
 
         next_page = response.css('a:contains("Next Page") ::attr(disabled)').get('')
 
@@ -74,16 +126,20 @@ class MatwebSpider(BaseSpider):
         if not next_page:
             viewstat = response.css('#__VIEWSTATE ::attr("value")').get('')
             viewstat_generator_id = response.css('#__VIEWSTATEGENERATOR ::attr("value")').get('')
-            self.next_page_value += 1
 
+            self.next_page_value += 1
             self.page_count += 1
-            print(f'Category: {category} & Page No Called:', self.page_count)
+            # print(f'Category: {category} & Page No Called:', self.page_count)
+
             data = self.get_form_data(category, viewstat, viewstat_generator_id, self.next_page_value)
             yield FormRequest(url=self.start_urls[0], formdata=data, callback=self.parse_category_pagination,
                               dont_filter=True, headers=self.headers,
                               meta={'category': category, 'page_count': self.page_count, 'next_page': True})
 
     def parse_detail(self, response):
+        if 'https://www.matweb.com/errorUser.aspx?msgid=8' in response.url:
+            a=1
+
         try:
             item = OrderedDict()
             title = response.css('.tabledataformat.t_ableborder th::text').get('').strip()
@@ -96,27 +152,29 @@ class MatwebSpider(BaseSpider):
             item['Vendors'] = self.get_vendor(response)
             item['Color'] = ''
             item['Crystal Structure'] = ''
-            item['Physical Properties'] = self.get_properties(response, 'Physical')
-            item['Chemical Properties'] = self.get_properties(response, 'Chemical')
-            item['Mechanical Properties'] = self.get_properties(response, 'Mechanical')
-            item['Electrical Properties'] = self.get_properties(response, 'Electrical')
-            item['Thermal Properties'] = self.get_properties(response, 'Thermal')
-            item['Optical Properties'] = self.get_properties(response, 'Optical')
-            item['Component Elements Properties'] = self.get_properties(response, 'Component')
-            item['Descriptive Properties'] = self.get_properties(response, 'Descriptive')
-            item['Processing Properties'] = self.get_properties(response, 'Processing')
+            item['Physical Properties'] = self.get_properties(response, 'Physical Properties')
+            item['Chemical Properties'] = self.get_properties(response, 'Chemical Properties')
+            item['Mechanical Properties'] = self.get_properties(response, 'Mechanical Properties')
+            item['Electrical Properties'] = self.get_properties(response, 'Electrical Properties')
+            item['Thermal Properties'] = self.get_properties(response, 'Thermal Properties')
+            item['Optical Properties'] = self.get_properties(response, 'Optical Properties')
+            item['Component Elements Properties'] = self.get_properties(response, 'Component Properties')
+            item['Descriptive Properties'] = self.get_properties(response, 'Descriptive Properties')
+            item['Processing Properties'] = self.get_properties(response, 'Processing Properties')
+            item['Chemical Resistance Properties'] = self.get_properties(response, 'Chemical Resistance Properties')
             item['URL'] = response.url
 
-            item['Category'] = response.meta.get('category', '')
-            page_count = response.meta.get('page_count', '')
-            page_count = str(int(page_count) + 1) if page_count else '1'
-            item['Page NO'] = f'Category: {item['Category']} Page No: {page_count}'
+            # item['Category'] = response.meta.get('category', '')
+            # page_count = response.meta.get('page_count', '')
+            # page_count = str(int(page_count) + 1) if page_count else '1'
+            # item['Page NO'] = f'Category: {item['Category']} Page No: {page_count}'
 
-            self.write_csv(record=item)
+            # self.write_csv(record=item)
+            self.write_json(record=item)
         except Exception as e:
             self.write_logs(f'Error in item write URL:{response.url} Error:{e}')
 
-    def get_form_data(self, category, viewstat, viewstat_generator_id, next_page_value):
+    def get_form_data(self, category, viewstat, viewstat_generator_id, next_page_value, subcategory):
         viewstat_generator_id = viewstat_generator_id if viewstat_generator_id else "640EFF8C"
 
         # Base data dictionary
@@ -165,6 +223,14 @@ class MatwebSpider(BaseSpider):
                 'ctl00$ContentMain$btnSubmit.x': '30',
                 'ctl00$ContentMain$btnSubmit.y': '10',
             }
+        elif subcategory:
+            payload= {
+                'ctl00$ContentMain$txtMatGroupID': '',
+                'ctl00$ContentMain$txtMatGroupText': '',
+                '__CALLBACKID': 'ctl00$ContentMain$ucMatGroupTree$msTreeView', #
+                # '__CALLBACKPARAM': '1|118|fff|21|Ceramic (10004 matls)0|11'
+                '__CALLBACKPARAM': subcategory
+            }
 
         # Merge payload into data if category is specified
         if payload:
@@ -175,17 +241,11 @@ class MatwebSpider(BaseSpider):
             page_size2 = '50' if next_page_value == 1 else '200'
             next_page_data = {
                 '__EVENTTARGET': 'ctl00$ContentMain$UcSearchResults1$lnkNextPage',
-                # 'ctl00$ContentMain$UcSearchResults1$drpPageSize1': '200',
-                # 'ctl00$ContentMain$UcSearchResults1$drpFolderList': '0',
-                # 'ctl00$ContentMain$UcSearchResults1$txtFolderMatCount': '0/0',
-                # 'ctl00$ContentMain$UcSearchResults1$drpPageSelect2': '1',
-                # 'ctl00$ContentMain$UcSearchResults1$drpPageSize2': '50',
                 'ctl00$ContentMain$UcSearchResults1$drpPageSelect1': str(next_page_value),
                 'ctl00$ContentMain$UcSearchResults1$drpPageSize1': '200',
                 'ctl00$ContentMain$UcSearchResults1$drpFolderList': '0',
                 'ctl00$ContentMain$UcSearchResults1$txtFolderMatCount': '0/0',
                 'ctl00$ContentMain$UcSearchResults1$drpPageSelect2': str(next_page_value),
-                # 'ctl00$ContentMain$UcSearchResults1$drpPageSize2': '200',
                 'ctl00$ContentMain$UcSearchResults1$drpPageSize2': page_size2,
             }
             data.update(next_page_data)
@@ -196,80 +256,47 @@ class MatwebSpider(BaseSpider):
 
         return data
 
-    def get_physical_pro(self, response):
-        keys = [key.strip() for key in response.css('tr:contains("Physical Properties") th ::text').getall()[1:]]
-        values = []
-        records = response.css('tr:contains("Physical Properties") + tr td')
-        for record in records:
-            values.append(''.join(record.css('::text').getall()).strip())
-
-        # Separate the main key and the remaining values
-        main_key = values[0]  # The first item in values is the main key
-        remaining_values = values[1:]  # The rest of the values
-
-        # Create the list of dictionaries, ensuring everything is stripped
-        physical_properties = [
-            {
-                main_key: {
-                    keys[0]: remaining_values[0],
-                    keys[1]: remaining_values[1],
-                    keys[2]: remaining_values[2],
-                }
-            }
-        ]
-
-        return physical_properties
-
     def get_properties(self, response, value):
         try:
-            # value = 'Processing'
-            keys = [key.strip() for key in response.css(f'tr:contains("{value} Properties") th ::text').getall()[1:]]
-            keys = keys or response.css(f'tr:contains("{value}") th::text').getall()
-            values = []
-
-            # Extract records after the specified properties row
-            records = response.css(f'tr:contains("{value} Properties") + .datarowSeparator td')
-            records = records or response.css(f'tr:contains("{value}") + .datarowSeparator td')
-            records = records or response.css(f'tr:contains("{value} Properties") ~ tr')[:5]
+            # Extract the headers (keys)
+            keys = [
+                       key.strip() for key in response.css(f'tr:contains("{value} Properties") th ::text').getall()[1:]
+                   ] or response.css(f'tr:contains("{value}") th::text').getall()[1:]
 
             if not keys:
-                # If no keys are found, process the records
-                for record in records:
-                    rec_row = record.css('td ::text').getall()
-                    if rec_row != '\xa0' and rec_row:
-                        values.append(rec_row)
+                return 'N/A'  # Return early if no keys are found
 
-                # Flatten the list of values and join them with newlines
-                flattened_values = [' '.join(record) for record in values]
-                return '\n '.join(flattened_values) if flattened_values else 'N/A'
+            # Extract all rows following the specified property section
+            # rows = response.css(f'tr:contains("{value} Properties") ~ tr.datarowSeparator')
+            rows = response.css(f'tr:contains("{value} Properties") ~ tr')
+            if not rows:
+                # rows = response.css(f'tr:contains("{value}") ~ tr.datarowSeparator')
+                rows = response.css(f'tr:contains("{value}") ~ tr')
 
-            else:
-                # If keys are found, process records and append to values
-                list_record = []
-                for record in records:
-                    rec_row = ''.join([text.strip() for text in record.css('td ::text').getall() if text.strip()])
-                    if rec_row != '\xa0' and rec_row:
-                        list_record.append(rec_row)
-
-                values.append(list_record)
-
-            # Create the list of dictionaries from the values
+            # Process each row and extract the data
             property_dicts = []
-            for record in values:
-                # Separate the main key and the remaining values
-                main_key = record[0] if record else ""  # The first item in the record is the main key
-                remaining_values = record[1:]  # The rest of the values
+            for row in rows:
+                cells = row.css('td')
+                if 'colspan="4"' in cells.get(''):
+                    break
 
-                # Create the dictionary for the current record
-                property_dict = {
-                    main_key: {
-                        keys[i]: remaining_values[i] if i < len(remaining_values) else None
-                        for i in range(len(keys))
+                if cells:
+                    # Extract property name and corresponding values
+                    main_key = cells[0].css('::text').get('').strip()  # First column is the property name
+                    remaining_values = [
+                        ''.join(cell.css('::text').getall()).strip() for cell in cells[1:]
+                    ]  # Remaining columns
+
+                    # Map the extracted values to the keys
+                    property_dict = {
+                        main_key: {
+                            keys[i]: remaining_values[i] if i < len(remaining_values) else None
+                            for i in range(len(keys))
+                        }
                     }
-                }
 
-                # Append the dictionary to the list
-                property_dicts.append(property_dict)
+                    # Add the dictionary to the results list
+                    property_dicts.append(property_dict)
 
             return property_dicts if property_dicts else 'N/A'
 

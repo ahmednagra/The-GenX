@@ -1,0 +1,12 @@
+[INIT] Script started at 16-01-2025 20:48:50
+
+
+2/2 Categories left to Scrape
+
+
+
+
+Men Category is Starting to Scrape
+
+
+Error parsing item:Expected selector, got <DELIM '<' at 0> URL:https://www.farfetch.com/sa/shopping/men/b1archive-logo-patch-plaid-shirt-item-22994795.aspx?storeid=12416

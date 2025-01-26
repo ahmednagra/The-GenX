@@ -1,0 +1,12 @@
+[INIT] Script started at 26-01-2025 10:33:33
+Category: Women | Total Items Found: 547
+Category: Men | Total Items Found: 238
+Category: Gifts | Total Items Found: 278
+
+--- Scraping Summary ---
+Total Products Successfully Scraped: 17
+
+--- Script Execution Times ---
+Script Start Time: 26-01-2025 10:33:33
+Script End Time: 26-01-2025 10:35:08
+Reason for Closure: shutdown

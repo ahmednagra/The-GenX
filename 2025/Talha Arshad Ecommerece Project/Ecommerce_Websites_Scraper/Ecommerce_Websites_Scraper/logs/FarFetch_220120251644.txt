@@ -1,0 +1,22 @@
+[INIT] Script started at 22-01-2025 16:44:21
+
+
+3/3 Categories left to Scrape
+
+
+
+
+Kids Category is Starting to Scrape
+
+
+Sorry, no items were found: URLhttps://www.farfetch.com/sa/shopping/kids/designer-alviero-martini-kids/items.aspx
+Sorry, no items were found: URLhttps://www.farfetch.com/sa/shopping/kids/designer-10-corso-como/items.aspx
+
+--- Scraping Summary ---
+Total Products Available on Website: 1421
+Total Products Successfully Scraped: 18
+
+--- Script Execution Times ---
+Script Start Time: 22-01-2025 16:44:21
+Script End Time: 22-01-2025 16:48:04
+Reason for Closure: shutdown

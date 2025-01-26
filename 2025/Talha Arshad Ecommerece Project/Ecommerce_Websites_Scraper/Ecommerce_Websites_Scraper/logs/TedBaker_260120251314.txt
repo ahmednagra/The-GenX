@@ -1,0 +1,6 @@
+[INIT] Script started at 26-01-2025 13:14:56
+Category: Gifts | Total Items Found: 278
+
+--- Scraping Summary ---
+Total Products Available on Website: 278
+Total Products Successfully Scraped: 50

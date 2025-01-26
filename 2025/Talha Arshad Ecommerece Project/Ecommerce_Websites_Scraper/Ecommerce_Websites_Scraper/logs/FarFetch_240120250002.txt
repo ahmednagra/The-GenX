@@ -1,0 +1,26 @@
+[INIT] Script started at 24-01-2025 00:02:16
+
+
+3/3 Categories left to Scrape
+
+Kids Category is Starting to Scrape
+
+
+Total Products Available on Category: kids Are:0
+Total Products Scraped on Category: kids Are:0
+
+
+2/3 Categories left to Scrape
+
+Men Category is Starting to Scrape
+
+
+[INIT] Script started at 24-01-2025 00:02:54
+
+
+3/3 Categories left to Scrape
+
+Kids Category is Starting to Scrape
+
+
+Sorry, no items were found: URLhttps://www.farfetch.com/sa/shopping/kids/designer-alviero-martini-kids/items.aspx

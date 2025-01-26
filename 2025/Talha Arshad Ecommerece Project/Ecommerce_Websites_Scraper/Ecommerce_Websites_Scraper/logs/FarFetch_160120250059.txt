@@ -1,0 +1,13 @@
+[INIT] Script started at 16-01-2025 00:59:21
+
+
+3/3 Categories left to Scrape
+
+
+
+
+Kids Category is Starting to Scrape
+
+
+Not any Brand Exist: URLhttps://www.farfetch.com/sa/shopping/kids/designer-10-corso-como/items.aspx
+Error parsing item:invalid literal for int() with base 10: '' URL:https://www.farfetch.com/sa/shopping/kids/wauw-capow-by-bangbang-theresa-a-line-metallic-dress-item-22887286.aspx?storeid=10893

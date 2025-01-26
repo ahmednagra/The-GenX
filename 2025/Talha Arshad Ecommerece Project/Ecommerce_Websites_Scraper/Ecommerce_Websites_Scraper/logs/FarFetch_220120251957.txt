@@ -1,0 +1,22 @@
+[INIT] Script started at 22-01-2025 19:57:09
+
+
+2/2 Categories left to Scrape
+
+
+
+
+Men Category is Starting to Scrape
+
+
+Sorry, no items were found: URLhttps://www.farfetch.com/sa/shopping/men/designer-moncler-genius/items.aspx
+Sorry, no items were found: URLhttps://www.farfetch.com/sa/shopping/men/321/items.aspx
+
+--- Scraping Summary ---
+Total Products Available on Website: 1741
+Total Products Successfully Scraped: 30
+
+--- Script Execution Times ---
+Script Start Time: 22-01-2025 19:57:09
+Script End Time: 22-01-2025 19:59:18
+Reason for Closure: shutdown

@@ -1,0 +1,12 @@
+[INIT] Script started at 22-01-2025 11:49:30
+
+
+3/3 Categories left to Scrape
+
+
+
+
+Kids Category is Starting to Scrape
+
+
+Not any Brand Exist: URLhttps://www.farfetch.com/sa/shopping/kids/designer-10-corso-como/items.aspx

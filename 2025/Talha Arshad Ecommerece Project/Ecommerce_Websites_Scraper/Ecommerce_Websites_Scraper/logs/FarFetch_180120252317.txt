@@ -1,0 +1,21 @@
+[INIT] Script started at 18-01-2025 23:17:47
+
+
+3/3 Categories left to Scrape
+
+
+
+
+Kids Category is Starting to Scrape
+
+
+Not any Brand Exist: URLhttps://www.farfetch.com/sa/shopping/kids/designer-10-corso-como/items.aspx
+
+--- Scraping Summary ---
+Total Products Available on Website: 260
+Total Products Successfully Scraped: 97
+
+--- Script Execution Times ---
+Script Start Time: 18-01-2025 23:17:47
+Script End Time: 18-01-2025 23:24:14
+Reason for Closure: shutdown

@@ -1,0 +1,32 @@
+[INIT] Script started at 15-01-2025 21:20:36
+
+
+3/3 Categories left to Scrape
+
+
+
+
+Kids Category is Starting to Scrape
+
+
+Total Products Available on Category: kids Are:0
+Total Products Scraped on Category: kids Are:0
+
+
+2/3 Categories left to Scrape
+
+
+
+
+Men Category is Starting to Scrape
+
+
+
+--- Scraping Summary ---
+Total Products Available on Website: 0
+Total Products Successfully Scraped: 0
+
+--- Script Execution Times ---
+Script Start Time: 15-01-2025 21:20:36
+Script End Time: 15-01-2025 21:21:11
+Reason for Closure: shutdown
